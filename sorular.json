@@ -14280,4 +14280,5587 @@
     "dogruCevap": 0,
     "cozum": "Anayasa Madde 40 herkesin yetkili makama başvurma hakkını ve makamların başvuru yollarını/sürelerini bildirme yükümlülüğünü düzenler (III yanlış; I ve II doğru)."
   }
+[
+  {
+    "id": 1001,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Aşağıdakilerden hangileri idarenin bütünlüğü ilkesini sağlayan araçlar arasında yer alır?",
+    "onculListe": [
+      "I. Hiyerarşi",
+      "II. İdari vesayet",
+      "III. Kamu tüzel kişiliği"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İdarenin bütünlüğü, merkezi idarenin kendi içindeki birliğini hiyerarşi ile, merkezi idare ile yerinden yönetimler arasındaki denetimi ise idari vesayet ile sağlar. Kamu tüzel kişiliği bütünlük aracı değil teşkilatlanma biçimidir."
+  },
+  {
+    "id": 1002,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Aşağıdakilerden hangisi idari işlemlerin yetki unsuru yönünden sakatlığını ifade eden hallerden biridir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İşlemin kamu yararı amacı dışında tesis edilmesi",
+      "B) İşlemi yapmaya kanunen yetkili olmayan bir makamın karar alması",
+      "C) İşlem yapılırken şekil kurallarına uyulmaması",
+      "D) İşlemin konusunun hukuken imkansız olması",
+      "E) İşlemin dayandığı sebebin maddi hata içermesi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yetki unsuru hangi makamın işlem yapacağını belirler. Yetkisiz makamın işlem yapması yetki gaspı/tecavüzü yaratır."
+  },
+  {
+    "id": 1003,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İdari işlemlerin 'icrilik' özelliği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yapıldıkları andan itibaren hukuki sonuç doğururlar.",
+      "B) İdarenin işlemini uygulamak için her durumda mahkeme kararı alması zorunludur.",
+      "C) İcrai işlemler hukuka uygunluk karinesinden yararlanırlar.",
+      "D) İdare kararlarını doğrudan kendi güçleriyle uygular.",
+      "E) Dava açılması kural olarak yürütmeyi kendiliğinden durdurmaz."
+    ],
+    "dogruCevap": 1,
+    "cozum": "İcrilik sayesinde idare kararlarını uygulamak için mahkeme kararına ihtiyaç duymaz, doğrudan uygular."
+  },
+  {
+    "id": 1004,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Bir idari işlemin hukuka uygunluk karinesinden yararlanabilmesi için hangileri gereklidir?",
+    "onculListe": [
+      "I. Yetkili makam tarafından yapılmış olması",
+      "II. İcra edilebilir nitelikte olması",
+      "III. Kesinleşmiş mahkeme kararıyla iptal edilmemiş olması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "İşlem yargı kararıyla iptal edilene kadar hukuka uygunluk karinesinden yararlanır. Hepsi doğrudur."
+  },
+  {
+    "id": 1005,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Aşağıdakilerden hangisi idari sözleşmelerin özelliklerinden biri değildir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Taraflardan birinin mutlaka idare olması",
+      "B) Kamu yararı ve kamu hizmetinin yürütülmesi esası",
+      "C) İdarenin sözleşmeyi tek taraflı değiştirebilme üstünlük ayrıcalığının bulunmaması",
+      "D) Çıkan uyuşmazlıklarda idari yargının görevli olması",
+      "E) Mali denge ilkelerinin uygulanabilmesi"
+    ],
+    "dogruCevap": 2,
+    "cozum": "İdari sözleşmelerin en belirgin özelliği idarenin tek taraflı değişiklik ve fesih yetkisi (üstünlük ayrıcalığı) olmasıdır."
+  },
+  {
+    "id": 1006,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İdarenin yürütmeyi durdurma kararını süresinde uygulamaması durumu neyi ifade eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdarenin takdir yetkisidir.",
+      "B) Ağır bir hizmet kusuru ve hukuka aykırılıktır.",
+      "C) Sadece disiplin soruşturması gerektirir, hukuki sorumluluk doğurmaz.",
+      "D) Yürütmeyi durdurma kararları bağlayıcı değildir.",
+      "E) Adli yargının konusudur."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yürütmeyi durdurma ve mahkeme kararlarını 30 gün içinde uygulamamak ağır hizmet kusurudur."
+  },
+  {
+    "id": 1007,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri idari dava açma süresini durduran idari başvuru yolları arasındadır?",
+    "onculListe": [
+      "I. İYUK m.11 kapsamında üst makama yapılan başvuru",
+      "II. Genel dilekçe hakkı kapsamındaki başvurular",
+      "III. Alt-üst ilişkisi dışındaki yetkili makamlara başvurular"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Sadece İYUK m.11 çerçevesindeki üst makama başvurular dava açma süresini durdurur."
+  },
+  {
+    "id": 1008,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre disiplin soruşturmalarında savunma hakkı verilmemesi hangi ilkeyi ihlal eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Merkezileşme ilkesini",
+      "B) Anayasa'nın adil yargılanma ve savunma hakkı ilkelerini",
+      "C) Yetki genişliğini",
+      "D) İdarenin takdir yetkisini",
+      "E) İcrilik kuralını"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Savunma alınmadan disiplin cezası verilemez; bu adil yargılanma ve savunma hakkı gereğidir."
+  },
+  {
+    "id": 1009,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Kusursuz sorumluluk halleri ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdarenin kusuru aranmaz, sosyal risk veya fedakarlık ilkelerine dayanır.",
+      "B) Zarar görenin kusuru sorumluluğu asla etkilemez.",
+      "C) Sadece hukuka aykırı eylemlerde uygulanır.",
+      "D) İdare sadece manevi tazminat öder.",
+      "E) İlliyet bağı aranmaz."
+    ],
+    "dogruCevap": 0,
+    "cozum": "Kusursuz sorumlulukta idarenin kusuru aranmaz, fedakarlığın denkleştirilmesi veya sosyal risk ilkeleri geçerlidir."
+  },
+  {
+    "id": 1010,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kamulaştırmada kamu yararı kararından sonra bedel artırmak amacıyla yapılan suni yapılaşmaların dikkate alınmaması hangi ilkeyle açıklanır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdarenin malvarlığı dokunulmazlığı",
+      "B) Kamu yararı üstünlüğü ve haksız zenginleşmeyi önleme ilkesi",
+      "C) İdari istikrar",
+      "D) Yetki saptırması",
+      "E) İdarenin denetlenemezliği"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Suni bedel artışları kamulaştırmada dikkate alınmaz; amaç haksız zenginleşmeyi önlemektir."
+  },
+  {
+    "id": 1011,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri kamu hizmetlerinin özellikleri arasında yer alır?",
+    "onculListe": [
+      "I. Değişkenlik (uyarlama)",
+      "II. Genellik ve süreklilik",
+      "III. Sadece devlet eliyle yürütülme zorunluluğu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kamu hizmeti sürekli, değişken ve geneldir ancak özel teşebbüse de gördürülebilir (imtiyaz vb.). III yanlıştır."
+  },
+  {
+    "id": 1012,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Özel kanunda hüküm bulunmadıkça idare mahkemelerinde genel dava açma süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 15",
+      "B) 30",
+      "C) 60",
+      "D) 90",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "İYUK m.7 gereği genel dava açma süresi Danıştay ve idare mahkemelerinde 60 gündür."
+  },
+  {
+    "id": 1013,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri kamu mallarının hukuki özelliklerindendir?",
+    "onculListe": [
+      "I. Haczedilememe",
+      "II. Özel mülkiyete konu olabilme",
+      "III. Zamanaşımıyla edinilememe"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Kamu malları haczedilemez ve zamanaşımıyla kazanılamaz. Özel mülkiyete konu olamazlar (II yanlış)."
+  },
+  {
+    "id": 1014,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre devlet memurluğundan çıkarma cezası hangi merci tarafından verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Disiplin amiri",
+      "B) Atamaya yetkili amir",
+      "C) Yüksek Disiplin Kurulu",
+      "D) Vali",
+      "E) Danıştay"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Memurluktan çıkarma cezası kurumların Yüksek Disiplin Kurulu tarafından verilir."
+  },
+  {
+    "id": 1015,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İptal davası açılabilmesi için davacıda aranan kişisel unsur nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Tam mülkiyet hakkı",
+      "B) Meşru, kişisel ve güncel bir menfaat ihlali",
+      "C) Subjektif hak ihlali zorunluluğu",
+      "D) Dernek statüsü",
+      "E) Mali zarar"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İptal davasında subjektif hak ihlali şart değildir; meşru, kişisel ve güncel menfaat ihlali yeterlidir."
+  },
+  {
+    "id": 1016,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri tam yargı davası açılabilmesinin koşulları arasındadır?",
+    "onculListe": [
+      "I. İdarenin eylem veya işleminden kişisel hakkın ihlal edilmesi",
+      "II. Dava açmadan önce idareye yasal sürede başvurulması",
+      "III. İşlemin önceden iptal edilmiş olmasının zorunluluğu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Tam yargı davasında idareye başvuru şarttır (İYUK m.13). Önceden iptal edilmiş olması zorunlu değildir."
+  },
+  {
+    "id": 1017,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre soruşturma sebebiyle görevden uzaklaştırma tedbiri en çok ne kadar sürebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 ay",
+      "B) 2 ay",
+      "C) 3 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Soruşturma nedeniyle görevden uzaklaştırma tedbiri en çok 3 ay devam edebilir."
+  },
+  {
+    "id": 1018,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Yönetmelik çıkarabilecek makamlarla ilgili hangisi yanlıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanlığı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir.",
+      "B) Kanunların uygulanmasını sağlamak üzere çıkarılır.",
+      "C) Tüm yönetmeliklerin Resmi Gazete'de yayımlanması zorunludur.",
+      "D) Üniversiteler yönetmelik çıkarabilir.",
+      "E) Kanun veya CKK yetkisi şarttır."
+    ],
+    "dogruCevap": 2,
+    "cozum": "Sadece yurt çapında uygulanacak yönetmelikler Resmi Gazete'de yayımlanır; tümünün yayımlanması zorunlu değildir."
+  },
+  {
+    "id": 1019,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri idari sözleşme türleri arasındadır?",
+    "onculListe": [
+      "I. Kamu hizmeti imtiyaz sözleşmeleri",
+      "II. İstikraz sözleşmeleri",
+      "III. Sıradan kırtasiye alım sözleşmeleri"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İmtiyaz ve istikraz idari sözleşmedir; kırtasiye alımı özel hukuk sözleşmesidir (III yanlış)."
+  },
+  {
+    "id": 1020,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Danıştay'ın istişari (idari) görevleri arasında aşağıdakilerden hangisi yer almaz?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kanun tasarıları hakkında görüş bildirmek",
+      "B) CKK taslaklarını incelemek",
+      "C) İdari sözleşme taslakları hakkında düşünce bildirmek",
+      "D) İlk derece mahkemesi olarak iptal davası görmek",
+      "E) Cumhurbaşkanının istemesi halinde inceleme yapmak"
+    ],
+    "dogruCevap": 3,
+    "cozum": "İlk derece mahkemesi olarak dava görmek Danıştay'ın yargısal görevidir, istişari görevi değildir."
+  },
+  {
+    "id": 1021,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İdarenin takdir yetkisi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Hiçbir şekilde yargı denetimine tabi değildir.",
+      "B) Kamu yararı ve hizmet gerekleri ile sınırlandırılmıştır.",
+      "C) Bağlı yetkiyle eş anlamlıdır.",
+      "D) Maksat unsuru yönünden denetlenemez.",
+      "E) Sadece bakanlar kurulunca kullanılır."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Takdir yetkisi mutlak değildir; kamu yararı ve hizmet gerekleri çerçevesinde yargı denetimine tabidir."
+  },
+  {
+    "id": 1022,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri memurlara verilebilecek disiplin cezaları arasındadır?",
+    "onculListe": [
+      "I. Uyarma",
+      "II. Kınama",
+      "III. Aylıktan kesme"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I dan III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Uyarma, kınama ve aylıktan kesme memuriyet disiplin cezalarıdır. Hepsi doğrudur."
+  },
+  {
+    "id": 1023,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memurun çekilme isteğinde bekleme süresi kural olarak en çok ne kadardır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10 gün",
+      "B) 1 ay",
+      "C) 2 ay",
+      "D) 3 ay",
+      "E) 6 ay"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Çekilen memur yerine atananın gelmesine veya kabulüne binaen en çok 1 ay görevine devam edebilir."
+  },
+  {
+    "id": 1024,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "İşlemlerin ortadan kaldırılması yolları ile ilgili hangileri doğrudur?",
+    "onculListe": [
+      "I. Geri alma: Hukuka aykırı işlemlerin geriye yürür şekilde kaldırılması",
+      "II. Kaldırma: Hukuka uygun işlemlerin geleceğe etkili kaldırılması",
+      "III. Kendiliğinden son bulma: Konunun imkansızlaşmasıyla hükümsüz kalması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Geri alma, kaldırma ve kendiliğinden sona erme tanımları tam ve doğrudur. Hepsi dahildir."
+  },
+  {
+    "id": 1025,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Merkezi idarenin atama ve nakil işlemlerine karşı açılacak iptal davalarında yetkili mahkeme kural olarak neresidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Davacının ikametgahı",
+      "B) Kamu görevlisinin yeni görev yerinin bulunduğu idare mahkemesi",
+      "C) İşlemi yapan merciin yeri",
+      "D) Ankara İdare Mahkemesi",
+      "E) Danıştay"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Özlük haklarıyla ilgili atama ve nakil davalarında yetkili mahkeme kamu görevlisinin yeni görev yeridir."
+  },
+  {
+    "id": 1026,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "1982 Anayasası'na göre AYM'de iptal davası açabilecek kurum ve kişiler kimlerdir?",
+    "onculListe": [
+      "I. Cumhurbaşkanı",
+      "II. TBMM üye tam sayısının 1/5'i milletvekilleri",
+      "III. En çok üyeye sahip iki siyasi parti grubu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Anayasa m.150 gereği iptal davası açma yetkisi Cumhurbaşkanı, 1/5 milletvekili ve en çok üyeye sahip iki siyasi parti grubuna aittir."
+  },
+  {
+    "id": 1027,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "2017 değişikliğiyle Türk hukuk sisteminden tamamen kaldırılan yürütme organı ve norm hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Bakanlar Kurulu ve Tüzük",
+      "B) Danıştay",
+      "C) Sayıştay",
+      "D) HSK",
+      "E) Askeri Yargıtay"
+    ],
+    "dogruCevap": 0,
+    "cozum": "2017 değişikliğiyle Bakanlar Kurulu kaldırılmış, tüzük normu yürürlükten kaldırılmıştır."
+  },
+  {
+    "id": 1028,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Milletvekilliğinin düşmesi kararlarına karşı Anayasa Mahkemesine iptal başvurusuyla ilgili ne söylenebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sadece şekil yönünden denetlenir.",
+      "B) Hem şekil hem esas yönünden iptal davası açılabilir.",
+      "C) Yargı denetimi kapalıdır.",
+      "D) Sadece Yargıtay denetleyebilir.",
+      "E) İdare mahkemeleri görevlidir."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Anayasa Mahkemesi milletvekilliğinin düşürülmesi kararlarına karşı hem şekil hem esas yönünden denetim yapar."
+  },
+  {
+    "id": 1029,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "1982 Anayasası'na göre TBMM'nin bilgi edinme ve denetim yolları arasında hangileri yer alır?",
+    "onculListe": [
+      "I. Yazılı soru",
+      "II. Meclis araştırması",
+      "III. Gensoru"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Gensoru 2017'de kaldırılmıştır; yazılı soru ve meclis araştırması geçerli denetim yollarıdır (I ve II doğru, III yanlış)."
+  },
+  {
+    "id": 1030,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre kanun teklif etme yetkisi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sadece Cumhurbaşkanına",
+      "B) Sadece TBMM üyelerine (milletvekillerine)",
+      "C) Bakanlar Kuruluna",
+      "D) Vatandaşlara",
+      "E) Danıştay'a"
+    ],
+    "dogruCevap": 1,
+    "cozum": "2017 değişikliğiyle kanun teklif etme yetkisi münhasıran milletvekillerine verilmiştir."
+  },
+  {
+    "id": 1031,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "OHAL döneminde çıkarılan Cumhurbaşkanlığı kararnamelerinin (OHAL CKK) rejimiyle ilgili hangileri doğrudur?",
+    "onculListe": [
+      "I. Aynı gün TBMM'ye sunulurlar.",
+      "II. Meclis tarafından üç ay içinde görüşülüp onaylanmalıdır.",
+      "III. Anayasa Mahkemesinde anayasaya aykırılık iddiasıyla dava açılamaz."
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "OHAL CKK'ları aynı gün Meclise sunulur, onaylanır ve AYM'de şekil/esas davasına konu edilemezler. Hepsi doğrudur."
+  },
+  {
+    "id": 1032,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Siyasi partilerin mali denetimini hangi yüksek kurum yapar?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yargıtay",
+      "B) Anayasa Mahkemesi (Sayıştay'ın yardımıyla)",
+      "C) Danıştay",
+      "D) İçişleri Bakanlığı",
+      "E) TBMM"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Siyasi partilerin mali denetimini Anayasa Mahkemesi, Sayıştay'ın yardımıyla gerçekleştirir."
+  },
+  {
+    "id": 1033,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Temel hak ve özgürlüklerin sınırlanması rejimi (Anayasa m.13) bakımından hangisi yanlıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yalnızca kanunla sınırlanabilir.",
+      "B) Ölçülülük ilkesine uygun olmalıdır.",
+      "C) CKK ile genel sınırlama yapılabilir.",
+      "D) Demokratik toplum düzeninin gereklerine aykırı olamaz.",
+      "E) Anayasa'nın sözüne ve ruhuna uygun olmalıdır."
+    ],
+    "dogruCevap": 2,
+    "cozum": "Temel hak ve özgürlükler CKK ile sınırlanamaz; münhasıran kanunla sınırlanabilir. C seçeneği yanlıştır."
+  },
+  {
+    "id": 1034,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "HSK'nın doğal başkanı kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı",
+      "B) Adalet Bakanı",
+      "C) Yargıtay Başkanı",
+      "D) Danıştay Başkanı",
+      "E) Meclis Başkanı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Hakimler ve Savcılar Kurulu'nun doğal başkanı Adalet Bakanıdır."
+  },
+  {
+    "id": 1035,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri AYM'ye bireysel başvuru yapabilir?",
+    "onculListe": [
+      "I. Gerçek kişiler",
+      "II. Yabancılar",
+      "III. Özel hukuk tüzel kişileri"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Kamu tüzel kişileri hariç her gerçek kişi, yabancı ve özel hukuk tüzel kişisi bireysel başvuru yapabilir. Hepsi doğrudur."
+  },
+  {
+    "id": 1036,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "TBMM seçimlerinin yenilenmesi (erken seçim) kararı için gereken üye tamsayısı çoğunluğu nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Salt çoğunluk (301)",
+      "B) Beşte üç (360)",
+      "C) Üçte iki (400)",
+      "D) Dörtte üç",
+      "E) Oy birliği"
+    ],
+    "dogruCevap": 1,
+    "cozum": "TBMM üye tam sayısının beşte üçü (360 milletvekili) çoğunlukla erken seçim kararı alabilir."
+  },
+  {
+    "id": 1037,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Milletvekili seçilebilme yaşı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 18",
+      "B) 21",
+      "C) 25",
+      "D) 30",
+      "E) 40"
+    ],
+    "dogruCevap": 0,
+    "cozum": "2017 anayasa değişikliğiyle milletvekili seçilme yaşı 18'e düşürülmüştür."
+  },
+  {
+    "id": 1038,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "TBMM toplantı ve karar yetersayısı ile ilgili hangisi doğrudur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Üye tam sayısının 1/3'ü (200) ile toplanır, katılanların salt çoğunluğuyla karar verir.",
+      "B) Her zaman 301 kişiyle toplanmak zorundadır.",
+      "C) Karar sayısı üye tam sayısının yarısından az olamaz.",
+      "D) Toplantı yetersayısı 151'dir.",
+      "E) Oy birliği şarttır."
+    ],
+    "dogruCevap": 0,
+    "cozum": "TBMM en az 200 milletvekiliyle toplanır ve katılanların salt çoğunluğuyla karar alır (karar sayısı 151'den az olamaz)."
+  },
+  {
+    "id": 1039,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Anayasa Mahkemesi toplam kaç üyeden oluşur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 11",
+      "B) 15",
+      "C) 17",
+      "D) 21",
+      "E) 9"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Anayasa Mahkemesi 15 üyeden kurulu bir yüksek mahkemedir."
+  },
+  {
+    "id": 1040,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "5442 sayılı Kanun'a göre 'yetki genişliği' ilkesi kimin için öngörülmüştür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kaymakamlar",
+      "B) Valiler",
+      "C) Belediye başkanları",
+      "D) Muhtarlar",
+      "E) Bölge mahkemesi başkanları"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yetki genişliği anayasal olarak yalnızca valiler için öngörülmüş merkezi idare esnekliğidir."
+  },
+  {
+    "id": 1041,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "5442 sayılı Kanun'a göre İl İdare Kurulu üyeleri kimlerdir?",
+    "onculListe": [
+      "I. Hukuk İşleri Müdürü",
+      "II. Defterdar",
+      "III. Milli Eğitim Müdürü"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "İl idare kurulu valinin başkanlığında hukuk işleri, defterdar ve ilgili il müdürlerinden oluşur. Hepsi dahildir."
+  },
+  {
+    "id": 1042,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Meskun sahasının nüfusu en az kaç olan yerlerde yeni belediye kurulabilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 2.000",
+      "B) 5.000",
+      "C) 10.000",
+      "D) 20.000",
+      "E) 50.000"
+    ],
+    "dogruCevap": 1,
+    "cozum": "5393 sayılı Kanun'a göre nüfusu 5.000 ve üzerinde olan yerlerde belediye kurulabilir."
+  },
+  {
+    "id": 1043,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Büyükşehir belediyesi statüsü kazanabilmek için bir ilin asgari toplam nüfusu kaç olmalıdır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 250.000",
+      "B) 500.000",
+      "C) 750.000",
+      "D) 1.000.000",
+      "E) 2.000.000"
+    ],
+    "dogruCevap": 2,
+    "cozum": "5216 sayılı Kanun'a göre toplam nüfusu 750.000'den fazla olan iller büyükşehir edilebilir."
+  },
+  {
+    "id": 1044,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Mülki idare bölümlerinin (il, ilçe) kurulması veya kaldırılması hangi işlemle yapılır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı kararı",
+      "B) Kanunla",
+      "C) İçişleri Bakanlığı yönetmeliği",
+      "D) Valilik ortak kararı",
+      "E) Danıştay kararı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl ve ilçe kurulması veya kaldırılması ancak KANUNLA yapılabilir."
+  },
+  {
+    "id": 1045,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İl özel idaresinin karar organı hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İl Encümeni",
+      "B) İl Genel Meclisi",
+      "C) Vali",
+      "D) İdare Kurulu",
+      "E) Belediye Meclisi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl özel idaresinin karar organı İl Genel Meclisidir."
+  },
+  {
+    "id": 1046,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Köy ihtiyar meclisinin başkanı kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Köy İmamı",
+      "B) Köy Muhtarı",
+      "C) Kaymakam",
+      "D) İlçe Özel İdare Müdürü",
+      "E) En yaşlı köylü"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Köy ihtiyar meclisinin başkanı ve köy tüzel kişiliğinin temsilcisi muhtardır."
+  },
+  {
+    "id": 1047,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Belediye meclisinin feshi veya düşürülmesi kararını verme yetkisi hangi yüksek yargı organına aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yargıtay",
+      "B) Anayasa Mahkemesi",
+      "C) Danıştay",
+      "D) Bölge İdare Mahkemesi",
+      "E) Sayıştay"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye meclisinin feshi İçişleri Bakanlığı bildirimi üzerine Danıştay kararıyla gerçekleşir."
+  },
+  {
+    "id": 1048,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Mahalli idare organlarını tedbiren görevden uzaklaştırma yetkisi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı",
+      "B) İçişleri Bakanı",
+      "C) Vali",
+      "D) Danıştay",
+      "E) Meclis"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Mahalli idare organları ve başkanları soruşturma nedeniyle İçişleri Bakanı tarafından görevden uzaklaştırılabilir."
+  },
+  {
+    "id": 1049,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Merkezi idarenin taşra teşkilatı kademeleri sırasıyla hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İl - İlçe - Bucak",
+      "B) İl - Bölge - Köy",
+      "C) İlçe - Belde - Mahalle",
+      "D) Bölge - İl - Metropol",
+      "E) Özel İdare - Belediye - Köy"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Merkezi idarenin taşra teşkilatı İl, İlçe ve Bucak kademelerinden oluşur."
+  },
+  {
+    "id": 1050,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Anayasa m.127'ye göre mahalli idare organlarının seçimleri kaç yılda bir yapılır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 7"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Mahalli idare organlarının seçimleri 5 yılda bir yapılır."
+  },
+  {
+    "id": 1051,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye meclisinin olağan toplantı zamanı ne sıklıkla gerçekleşir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Her yıl kasımda",
+      "B) Her ayın ilk haftası önceden kararlaştırılan günde",
+      "C) 6 ayda bir",
+      "D) Vali istediğinde",
+      "E) Haftada bir"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Belediye meclisi her ayın ilk haftası önceden belirlediği günde olağan toplantısını yapar."
+  },
+  {
+    "id": 1052,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İl özel idaresinde yürütme organı ve encümen başkanı kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Meclis Başkanı",
+      "B) Vali",
+      "C) Genel Sekreter",
+      "D) Defterdar",
+      "E) Kaymakam"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl özel idaresinde yürütme vali'dir ve encümene de vali başkanlık eder."
+  },
+  {
+    "id": 1053,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Belediye encümeninin üye yapısı nasıldır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Tamamı halk seçer.",
+      "B) Yarı yarıya meclisçe seçilen ve başkanca atanan üyelerden oluşur.",
+      "C) Sadece belediye başkanıdır.",
+      "D) Valilik atamasıdır.",
+      "E) Dışarıdan uzmanlardır."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Belediye encümeni il ve ilçe belediyelerinde yarı yarıya meclis seçimi ve başkan atamasıyla oluşur."
+  },
+  {
+    "id": 1054,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Köy ihtiyar meclisinde yer alan 'doğal üyeler' kimlerdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kaymakam ve muhtar",
+      "B) Köy başöğretmeni ve köy imamı",
+      "C) Bekçi ve kahya",
+      "D) En yaşlı iki köylü",
+      "E) Tarım müdürü"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Köy ihtiyar meclisinin doğal üyeleri başöğretmen ve köy imamıdır."
+  },
+  {
+    "id": 1055,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Mahalli idarelerin birlik kurabilmesi hangi bakanlığın iznine tabidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Maliye Bakanlığı",
+      "B) İçişleri Bakanlığı",
+      "C) Çevre ve Şehircilik Bakanlığı",
+      "D) Adalet Bakanlığı",
+      "E) Dışişleri Bakanlığı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Mahalli idarelerin birlik kurması İçişleri Bakanlığının iznine bağlıdır."
+  },
+  {
+    "id": 1056,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye bütçesi meclis tarafından en geç hangi ayda onaylanmalıdır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Ağustos",
+      "B) Ekim",
+      "C) Aralık ayı toplantı döneminde (yılbaşından önce)",
+      "D) Şubat",
+      "E) Nisan"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye bütçesi aralık ayında görüşülerek yılbaşından önce onaylanır."
+  },
+  {
+    "id": 1057,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye bütçesinin kesin hesabı hangi ayda meclis tarafından karara bağlanır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Ocak",
+      "B) Mart",
+      "C) Nisan",
+      "D) Ağustos",
+      "E) Aralık"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye kesin hesabı izleyen mali yılın Nisan ayında meclisçe karara bağlanır."
+  },
+  {
+    "id": 1058,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Mahalli idarelerin dış denetimini TBMM adına hangi yüksek kurum yapar?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sayıştay",
+      "B) Yargıtay",
+      "C) Danıştay",
+      "D) AYM",
+      "E) İçişleri Bakanlığı"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Mahalli idarelerin dış denetimi TBMM adına Sayıştay tarafından gerçekleştirilir."
+  },
+  {
+    "id": 1059,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye sınırları dışında olup belediye hizmetlerinin götürülebildiği alanlara ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Nazım alan",
+      "B) Mücavir alan",
+      "C) Metropol",
+      "D) Taşra",
+      "E) Özel saha"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Belediye sınırları dışında olup hizmet götürülen alanlar mücavir alandır."
+  },
+  {
+    "id": 1060,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Fırsat maliyeti (alternatif maliyet) kavramı aşağıdakilerden hangisini ifade eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Toplam para harcamalarını",
+      "B) Bir kararı verirken vazgeçilen en yüksek değerli alternatifin değerini",
+      "C) Sabit maliyetleri",
+      "D) Enflasyon kaybını",
+      "E) Kamu harcamalarını"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Fırsat maliyeti, bir tercih yapılırken vazgeçilen en yüksek değerli diğer seçenektir."
+  },
+  {
+    "id": 1061,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Üretim İmkanları Eğrisi'nin (ÜIE) orijine göre içbükey olmasının nedeni nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Artan fırsat maliyeti",
+      "B) Kaynakların tam kullanımı",
+      "C) Teknolojik gelişme",
+      "D) Sabit verimler",
+      "E) Tüketici tercihleri"
+    ],
+    "dogruCevap": 0,
+    "cozum": "ÜIE'nin içbükeyliği artan fırsat maliyeti ve kaynakların farklı etkinlik derecelerine dayanır."
+  },
+  {
+    "id": 1062,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Tüketilen miktar arttıkça marjinal faydanın sürekli azalması hangi yasa ile ifade edilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Engel Yasası",
+      "B) Gossen I. Yasası (Azalan Marjinal Fayda)",
+      "C) Say Kanunu",
+      "D) King Yasası",
+      "E) Gossen II"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Tüketim arttıkça marjinal faydanın düşmesi Gossen I. Yasası (Azalan Marjinal Fayda) olarak bilinir."
+  },
+  {
+    "id": 1063,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Fiyatı arttığında talebi artan (talep kanununun istisnası olan) özel düşük mallara ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Giffen malı",
+      "B) Lüks mal",
+      "C) Normal mal",
+      "D) Tamamlayıcı mal",
+      "E) Kamusal mal"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Fiyatı arttığında talebi artan düşük mallar Giffen malı olarak adlandırılır."
+  },
+  {
+    "id": 1064,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İki mal arasındaki çapraz talep esnekliği pozitif (+ s) çıkarsa bu mallar arasındaki ilişki nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Tamamlayıcı mallar",
+      "B) İkame (rakip) mallar",
+      "C) Bağımsız mallar",
+      "D) Giffen malları",
+      "E) Düşük mallar"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Çapraz esnekliğin pozitif olması malların ikame (rakip) olduğunu gösterir."
+  },
+  {
+    "id": 1065,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Tam rekabet piyasasının temel özellikleri arasında hangileri yer alır?",
+    "onculListe": [
+      "I. Atomizasyon (çok sayıda alıcı-satıcı)",
+      "II. Homojenlik (malların aynı olması)",
+      "III. Piyasaya giriş çıkışların serbest olması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Atomizasyon, homojenlik ve serbest giriş-çıkış tam rekabetin temel şartlarıdır. Hepsi doğrudur."
+  },
+  {
+    "id": 1066,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Monopol gücünün ölçülmesinde kullanılan 'Lerner Endeksi' formülü nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) (P - MC) / P",
+      "B) MC / P",
+      "C) P / MR",
+      "D) Ed x P",
+      "E) AC - MC"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Lerner Endeksi L = (P - MC) / P formülüyle hesaplanır ve 0 ile 1 arasında değer alır."
+  },
+  {
+    "id": 1067,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Nominal GSYİH'nin Reel GSYİH'ye bölünmesiyle elde edilen fiyat endeksine ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) TÜFE",
+      "B) ÜFE",
+      "C) GSYİH Deflatörü",
+      "D) Yaşam Maliyeti",
+      "E) Pasche Endeksi"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Nominal GSYİH / Reel GSYİH oranı GSYİH Deflatörünü verir."
+  },
+  {
+    "id": 1068,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Marjinal Tüketim Eğilimi (MPC) ile Marjinal Tasarruf Eğiliminin (MPS) toplamı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 0",
+      "B) 0.5",
+      "C) 1",
+      "D) 10",
+      "E) Sonsuz"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Gelirin her ilave birimi ya tüketilir ya tasarruf edilir; MPC + MPS = 1'dir."
+  },
+  {
+    "id": 1069,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kamu harcamaları ve vergilerin eşit miktarda artırılmasıyla milli gelirin o miktar kadar artacağını savunan teorem hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Haavelmo Teoremi (Dengeli Bütçe Teoremi)",
+      "B) Ricardo Denklik",
+      "C) Modigliani Hipotezi",
+      "D) Say Kanunu",
+      "E) Friedman Hipotezi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Haavelmo Teoremi'ne göre kamu harcaması ve vergi aynı anda eşit artarsa çarpan 1 olur, gelir o kadar artar."
+  },
+  {
+    "id": 1070,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Fisher'ın miktar denklemi (değişim denklemi) aşağıdakilerden hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) C = c0 + cY",
+      "B) MV = PY",
+      "C) IS = LM",
+      "D) S = I",
+      "E) AD = AS"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Klasik miktar denklemi M x V = P x Y şeklindedir."
+  },
+  {
+    "id": 1071,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "IS-LM modelinde genişletici maliye politikası uygulandığında hangileri gerçekleşir?",
+    "onculListe": [
+      "I. IS eğrisi sağa kayar.",
+      "II. Faiz oranı yükselir.",
+      "III. Milli gelir artar."
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Genişletici maliye politikası IS'yi sağa kaydırır, faizi ve milli geliri artırır. Hepsi doğrudur."
+  },
+  {
+    "id": 1072,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kısa dönem Phillips eğrisi enflasyon ile işsizlik arasında nasıl bir ilişki olduğunu gösterir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Pozitif yönlü ilişki",
+      "B) Negatif (ters yönlü) ilişki",
+      "C) İlişki yoktur",
+      "D) Sabit oranlı ilişki",
+      "E) Doğrusal artış"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kısa dönem Phillips eğrisi enflasyon ile işsizlik arasında ters yönlü (negatif) ilişki olduğunu gösterir."
+  },
+  {
+    "id": 1073,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Devalüasyon sonrasında dış ticaret dengesinin ilk başta kötüleşip ardından düzelmesini gösteren etkiye ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Laffer Eğrisi",
+      "B) J-Eğrisi Etkisi",
+      "C) Lorenz Eğrisi",
+      "D) Phillips Eğrisi",
+      "E) Beveridge Eğrisi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Devalüasyonun gecikmeli iyileştirici etkisini gösteren grafik J-Eğrisi'dir."
+  },
+  {
+    "id": 1074,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İzmir İktisat Kongresi hangi yıl toplanmıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1920",
+      "B) 1923",
+      "C) 1925",
+      "D) 1929",
+      "E) 1933"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İzmir İktisat Kongresi 17 Şubat - 4 Mart 1923 tarihleri arasında toplanmıştır."
+  },
+  {
+    "id": 1075,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Köylünün üzerindeki en büyük vergi yükü olan ve 1925 yılında kaldırılan vergi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Aşar Vergisi",
+      "B) Varlık Vergisi",
+      "C) Ağnam Vergisi",
+      "D) Emlak Vergisi",
+      "E) Yol Vergisi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Tarım ürünlerinden alınan ve köylüyü zorlayan Aşar vergisi 1925'te kaldırılmıştır."
+  },
+  {
+    "id": 1076,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye'de planlı kalkınma dönemini başlatan DPT hangi yıl kurulmuştur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1950",
+      "B) 1960",
+      "C) 1961",
+      "D) 1965",
+      "E) 1970"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Devlet Planlama Teşkilatı (DPT) 1960 yılında kurulmuş, planlı dönem 1963'te başlamıştır."
+  },
+  {
+    "id": 1077,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye'de dışa açık ekonomik modele geçişin miladı kabul edilen karar paketi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 24 Ocak 1980 Kararları",
+      "B) 5 Nisan 1994 Kararları",
+      "C) 1958 Moratoryumu",
+      "D) İzmir Kongresi",
+      "E) Güçlü Ekonomiye Geçiş"
+    ],
+    "dogruCevap": 0,
+    "cozum": "24 Ocak 1980 kararları dışa açık serbest piyasaya geçişin miladıdır."
+  },
+  {
+    "id": 1078,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye ile AB arasında Gümrük Birliği hangi tarihte yürürlüğe girmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 Ocak 1990",
+      "B) 1 Ocak 1996",
+      "C) 17 Aralık 2004",
+      "D) 1 Ocak 2000",
+      "E) 15 Temmuz 1995"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Türkiye-AB Gümrük Birliği 1 Ocak 1996'da yürürlüğe girmiştir."
+  },
+  {
+    "id": 1079,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Gelir dağılımı eşitsizliğini ölçen Gini katsayısının 0'a yaklaşması ne anlama gelir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Mutlak eşitsizliğin arttığını",
+      "B) Mutlak eşitliğin arttığını",
+      "C) Enflasyonun sıfırlandığını",
+      "D) Büyümenin durduğunu",
+      "E) İşsizliğin bittiğini"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Gini katsayısının 0 olması mutlak eşitliği, 1 olması mutlak eşitsizliği gösterir."
+  },
+  {
+    "id": 1080,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İnsan haklarının tüm dünya insanları için geçerli olmasını ifade eden niteliği nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Mutlaklık",
+      "B) Evrensellik",
+      "C) Doğuştanlık",
+      "D) Devredilemezlik",
+      "E) Bireysellik"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Tüm dünyada herkes için geçerli olması evrensellik ilkesidir."
+  },
+  {
+    "id": 1081,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Bireyi devlete karşı koruyan 'Negatif Statü Hakları' sınıflandırmasını yapan Alman hukukçu kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Karel Vasak",
+      "B) George Jelinek",
+      "C) John Locke",
+      "D) Montesquieu",
+      "E) Thomas Hobbes"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Negatif, pozitif ve aktif statü hakları sınıflandırmasını George Jelinek yapmıştır."
+  },
+  {
+    "id": 1082,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İnsan haklarını tarihsel dönemlere göre kuşaklara ayıran Fransız hukukçu kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Karel Vasak",
+      "B) George Jelinek",
+      "C) Jean-Jacques Rousseau",
+      "D) Hans Kelsen",
+      "E) Max Weber"
+    ],
+    "dogruCevap": 0,
+    "cozum": "İnsan haklarını 1, 2, 3. kuşak olarak sınıflandıran Karel Vasak'tır."
+  },
+  {
+    "id": 1083,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kralın yetkilerini soylular lehine sınırlayan ilk İngiliz belgesi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Magna Carta (1215)",
+      "B) Habeas Corpus",
+      "C) Bill of Rights",
+      "D) Virginia Bildirisi",
+      "E) 1789 Bildirgesi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "1215 Magna Carta krallık yetkilerini sınırlayan ilk belgedir."
+  },
+  {
+    "id": 1084,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İnsan Hakları Evrensel Bildirgesi hangi tarihte kabul edilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10 Aralık 1948",
+      "B) 4 Kasım 1950",
+      "C) 24 Ekim 1945",
+      "D) 14 Temmuz 1789",
+      "E) 1 Ocak 1954"
+    ],
+    "dogruCevap": 0,
+    "cozum": "İHEB 10 Aralık 1948'de kabul edilmiştir (Dünya İnsan Hakları Günü)."
+  },
+  {
+    "id": 1085,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Osmanlı'da padişahın yetkilerini ilk kez sınırlayan sözleşme niteliğindeki ilk belge hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sened-i İttifak (1808)",
+      "B) Tanzimat Fermanı (1839)",
+      "C) Islahat Fermanı",
+      "D) Kanun-u Esasi",
+      "E) Gülhane Hattı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "1839 Tanzimat Fermanı padişah yetkilerini sınırlayan ilk belgedir."
+  },
+  {
+    "id": 1086,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye AİHM'e bireysel başvuru hakkını hangi yıl tanımıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1954",
+      "B) 1987",
+      "C) 1990",
+      "D) 2004",
+      "E) 2012"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Türkiye bireysel başvuru hakkını 1987'de tanımış, 1990'da zorunlu yargı yetkisini kabul etmiştir."
+  },
+  {
+    "id": 1087,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "AİHM'e başvuru için iç hukuk yollarının tüketilmesinden sonra aranan hak düşürücü süre (yeni protokolle) kaç aydır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 ay",
+      "B) 3 ay",
+      "C) 4 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Protokolle birlikte eski 6 aylık süre 4 aya düşürülmüştür."
+  },
+  {
+    "id": 1088,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Anayasa Mahkemesi'ne bireysel başvuru hangi anayasa değişikliğiyle getirilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1982 Anayasası",
+      "B) 2010 Değişikliği",
+      "C) 2017 Değişikliği",
+      "D) 2001 Değişikliği",
+      "E) 1995 Değişikliği"
+    ],
+    "dogruCevap": 1,
+    "cozum": "AYM'ye bireysel başvuru 2010 Anayasa değişikliği ile getirilmiştir."
+  },
+  {
+    "id": 1089,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kamu Denetçiliği Kurumu (Ombudsmanlık) kime bağlı olarak kurulmuştur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanlığı",
+      "B) TBMM Başkanlığı",
+      "C) Adalet Bakanlığı",
+      "D) Danıştay",
+      "E) Başbakanlık"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kamu Denetçiliği Kurumu TBMM'ye bağlı olarak kurulmuştur."
+  },
+  {
+    "id": 1090,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "4483 sayılı Kanun'a göre ilçede görevli bir ilçe müdürü hakkında soruşturma izni vermeye yetkili merci kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Vali",
+      "B) Kaymakam",
+      "C) Cumhuriyet Başsavcısı",
+      "D) Bakan",
+      "E) Bölge İdare Mahkemesi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "4483 sayılı Kanun'a göre ilçedeki müdürler için soruşturma izni verme yetkisi kaymakama aittir."
+  },
+  {
+    "id": 1091,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "3628 sayılı Kanun'a göre genel mal bildirimleri hangi yıllarda yenilenir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sonu 0 ve 5 ile biten yılların en geç şubat ayı sonuna kadar",
+      "B) Her yıl ocak ayında",
+      "C) Sonu 1 ve 6 ile biten yıllar",
+      "D) Seçim yıllarında",
+      "E) 3 yılda bir"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Genel mal bildirimleri sonu 0 ve 5 ile biten yılların şubat sonuna kadar yenilenir."
+  },
+  {
+    "id": 1092,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre Yüksek Seçim Kurulu (YSK) kararlarına karşı nereye itiraz edilebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Anayasa Mahkemesine",
+      "B) Danıştay'a",
+      "C) Yargıtay'a",
+      "D) Kararlar kesindir, hiçbir mercie itiraz edilemez",
+      "E) Bölge İdare Mahkemesine"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Anayasa m.79 gereğince YSK kararları kesindir, başka mercie itiraz edilemez."
+  },
+  {
+    "id": 1093,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Siyasi parti kurabilmek için gereken asgari Türk vatandaşı kurucu sayısı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 7",
+      "B) 20",
+      "C) 30",
+      "D) 50",
+      "E) 100"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Siyasi partiler en az 30 Türk vatandaşı tarafından kurulur."
+  },
+  {
+    "id": 1094,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre OHAL ilan etme yetkisi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) TBMM",
+      "B) Cumhurbaşkanı",
+      "C) Bakanlar Kurulu",
+      "D) İçişleri Bakanlığı",
+      "E) MGK"
+    ],
+    "dogruCevap": 1,
+    "cozum": "OHAL ilan etme yetkisi Cumhurbaşkanına aittir (en çok 6 ay için)."
+  },
+  {
+    "id": 1095,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memurun evlenmesi halinde verilen mazeret izni süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 5",
+      "C) 7",
+      "D) 10",
+      "E) 15"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Memurun evlenmesi durumunda kanunen 3 gün mazeret izni verilir."
+  },
+  {
+    "id": 1096,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre eşi doğum yapan memura verilen babalık izni süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 5",
+      "C) 7",
+      "D) 10",
+      "E) 15"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Eşi doğum yapan memura 10 gün babalık izni verilir."
+  },
+  {
+    "id": 1097,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1 Ocak 2005 tarihinde paradan kaç sıfır atılarak YTL'ye geçilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 8"
+    ],
+    "dogruCevap": 3,
+    "cozum": "2005 yılında paradan 6 sıfır atılarak Yeni Türk Lirası'na (YTL) geçilmiştir."
+  },
+  {
+    "id": 1098,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Bilgi Edinme Hakkı Kanunu'na göre normal başvuru cevap süresi en geç kaç iş günüdür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 7",
+      "B) 10",
+      "C) 15",
+      "D) 30",
+      "E) 60"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Bilgi edinme başvurularına en geç 15 iş günü içinde cevap verilir."
+  },
+  {
+    "id": 1099,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre TBMM üye tam sayısı kaç kişidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 500",
+      "B) 550",
+      "C) 600",
+      "D) 650",
+      "E) 501"
+    ],
+    "dogruCevap": 2,
+    "cozum": "2017 değişikliğiyle TBMM üye tam sayısı 600 kişiye çıkarılmıştır."
+  },
+  {
+    "id": 1100,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre yıllık izin süreleri hizmet yılı 1 ila 10 yıl arasında olanlar için kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10",
+      "B) 15",
+      "C) 20",
+      "D) 30",
+      "E) 40"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Hizmeti 1 yıldan 10 yıla kadar olan memurların yıllık izni 20 gündür (10 yıldan fazla olanlar için 30 gündür)."
+  }
+[
+  {
+    "id": 1001,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Aşağıdakilerden hangileri idarenin bütünlüğü ilkesini sağlayan araçlar arasında yer alır?",
+    "onculListe": [
+      "I. Hiyerarşi",
+      "II. İdari vesayet",
+      "III. Kamu tüzel kişiliği"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İdarenin bütünlüğü, merkezi idarenin kendi içindeki birliğini hiyerarşi ile, merkezi idare ile yerinden yönetimler arasındaki denetimi ise idari vesayet ile sağlar. Kamu tüzel kişiliği bütünlük aracı değil teşkilatlanma biçimidir."
+  },
+  {
+    "id": 1002,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Aşağıdakilerden hangisi idari işlemlerin yetki unsuru yönünden sakatlığını ifade eden hallerden biridir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İşlemin kamu yararı amacı dışında tesis edilmesi",
+      "B) İşlemi yapmaya kanunen yetkili olmayan bir makamın karar alması",
+      "C) İşlem yapılırken şekil kurallarına uyulmaması",
+      "D) İşlemin konusunun hukuken imkansız olması",
+      "E) İşlemin dayandığı sebebin maddi hata içermesi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yetki unsuru hangi makamın işlem yapacağını belirler. Yetkisiz makamın işlem yapması yetki gaspı/tecavüzü yaratır."
+  },
+  {
+    "id": 1003,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İdari işlemlerin 'icrilik' özelliği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yapıldıkları andan itibaren hukuki sonuç doğururlar.",
+      "B) İdarenin işlemini uygulamak için her durumda mahkeme kararı alması zorunludur.",
+      "C) İcrai işlemler hukuka uygunluk karinesinden yararlanırlar.",
+      "D) İdare kararlarını doğrudan kendi güçleriyle uygular.",
+      "E) Dava açılması kural olarak yürütmeyi kendiliğinden durdurmaz."
+    ],
+    "dogruCevap": 1,
+    "cozum": "İcrilik sayesinde idare kararlarını uygulamak için mahkeme kararına ihtiyaç duymaz, doğrudan uygular."
+  },
+  {
+    "id": 1004,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Bir idari işlemin hukuka uygunluk karinesinden yararlanabilmesi için hangileri gereklidir?",
+    "onculListe": [
+      "I. Yetkili makam tarafından yapılmış olması",
+      "II. İcra edilebilir nitelikte olması",
+      "III. Kesinleşmiş mahkeme kararıyla iptal edilmemiş olması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "İşlem yargı kararıyla iptal edilene kadar hukuka uygunluk karinesinden yararlanır. Hepsi doğrudur."
+  },
+  {
+    "id": 1005,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Aşağıdakilerden hangisi idari sözleşmelerin özelliklerinden biri değildir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Taraflardan birinin mutlaka idare olması",
+      "B) Kamu yararı ve kamu hizmetinin yürütülmesi esası",
+      "C) İdarenin sözleşmeyi tek taraflı değiştirebilme üstünlük ayrıcalığının bulunmaması",
+      "D) Çıkan uyuşmazlıklarda idari yargının görevli olması",
+      "E) Mali denge ilkelerinin uygulanabilmesi"
+    ],
+    "dogruCevap": 2,
+    "cozum": "İdari sözleşmelerin en belirgin özelliği idarenin tek taraflı değişiklik ve fesih yetkisi (üstünlük ayrıcalığı) olmasıdır."
+  },
+  {
+    "id": 1006,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İdarenin yürütmeyi durdurma kararını süresinde uygulamaması durumu neyi ifade eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdarenin takdir yetkisidir.",
+      "B) Ağır bir hizmet kusuru ve hukuka aykırılıktır.",
+      "C) Sadece disiplin soruşturması gerektirir, hukuki sorumluluk doğurmaz.",
+      "D) Yürütmeyi durdurma kararları bağlayıcı değildir.",
+      "E) Adli yargının konusudur."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yürütmeyi durdurma ve mahkeme kararlarını 30 gün içinde uygulamamak ağır hizmet kusurudur."
+  },
+  {
+    "id": 1007,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri idari dava açma süresini durduran idari başvuru yolları arasındadır?",
+    "onculListe": [
+      "I. İYUK m.11 kapsamında üst makama yapılan başvuru",
+      "II. Genel dilekçe hakkı kapsamındaki başvurular",
+      "III. Alt-üst ilişkisi dışındaki yetkili makamlara başvurular"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Sadece İYUK m.11 çerçevesindeki üst makama başvurular dava açma süresini durdurur."
+  },
+  {
+    "id": 1008,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre disiplin soruşturmalarında savunma hakkı verilmemesi hangi ilkeyi ihlal eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Merkezileşme ilkesini",
+      "B) Anayasa'nın adil yargılanma ve savunma hakkı ilkelerini",
+      "C) Yetki genişliğini",
+      "D) İdarenin takdir yetkisini",
+      "E) İcrilik kuralını"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Savunma alınmadan disiplin cezası verilemez; bu adil yargılanma ve savunma hakkı gereğidir."
+  },
+  {
+    "id": 1009,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Kusursuz sorumluluk halleri ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdarenin kusuru aranmaz, sosyal risk veya fedakarlık ilkelerine dayanır.",
+      "B) Zarar görenin kusuru sorumluluğu asla etkilemez.",
+      "C) Sadece hukuka aykırı eylemlerde uygulanır.",
+      "D) İdare sadece manevi tazminat öder.",
+      "E) İlliyet bağı aranmaz."
+    ],
+    "dogruCevap": 0,
+    "cozum": "Kusursuz sorumlulukta idarenin kusuru aranmaz, fedakarlığın denkleştirilmesi veya sosyal risk ilkeleri geçerlidir."
+  },
+  {
+    "id": 1010,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kamulaştırmada kamu yararı kararından sonra bedel artırmak amacıyla yapılan suni yapılaşmaların dikkate alınmaması hangi ilkeyle açıklanır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdarenin malvarlığı dokunulmazlığı",
+      "B) Kamu yararı üstünlüğü ve haksız zenginleşmeyi önleme ilkesi",
+      "C) İdari istikrar",
+      "D) Yetki saptırması",
+      "E) İdarenin denetlenemezliği"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Suni bedel artışları kamulaştırmada dikkate alınmaz; amaç haksız zenginleşmeyi önlemektir."
+  },
+  {
+    "id": 1011,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri kamu hizmetlerinin özellikleri arasında yer alır?",
+    "onculListe": [
+      "I. Değişkenlik (uyarlama)",
+      "II. Genellik ve süreklilik",
+      "III. Sadece devlet eliyle yürütülme zorunluluğu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kamu hizmeti sürekli, değişken ve geneldir ancak özel teşebbüse de gördürülebilir (imtiyaz vb.). III yanlıştır."
+  },
+  {
+    "id": 1012,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Özel kanunda hüküm bulunmadıkça idare mahkemelerinde genel dava açma süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 15",
+      "B) 30",
+      "C) 60",
+      "D) 90",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "İYUK m.7 gereği genel dava açma süresi Danıştay ve idare mahkemelerinde 60 gündür."
+  },
+  {
+    "id": 1013,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri kamu mallarının hukuki özelliklerindendir?",
+    "onculListe": [
+      "I. Haczedilememe",
+      "II. Özel mülkiyete konu olabilme",
+      "III. Zamanaşımıyla edinilememe"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Kamu malları haczedilemez ve zamanaşımıyla kazanılamaz. Özel mülkiyete konu olamazlar (II yanlış)."
+  },
+  {
+    "id": 1014,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre devlet memurluğundan çıkarma cezası hangi merci tarafından verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Disiplin amiri",
+      "B) Atamaya yetkili amir",
+      "C) Yüksek Disiplin Kurulu",
+      "D) Vali",
+      "E) Danıştay"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Memurluktan çıkarma cezası kurumların Yüksek Disiplin Kurulu tarafından verilir."
+  },
+  {
+    "id": 1015,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İptal davası açılabilmesi için davacıda aranan kişisel unsur nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Tam mülkiyet hakkı",
+      "B) Meşru, kişisel ve güncel bir menfaat ihlali",
+      "C) Subjektif hak ihlali zorunluluğu",
+      "D) Dernek statüsü",
+      "E) Mali zarar"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İptal davasında subjektif hak ihlali şart değildir; meşru, kişisel ve güncel menfaat ihlali yeterlidir."
+  },
+  {
+    "id": 1016,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri tam yargı davası açılabilmesinin koşulları arasındadır?",
+    "onculListe": [
+      "I. İdarenin eylem veya işleminden kişisel hakkın ihlal edilmesi",
+      "II. Dava açmadan önce idareye yasal sürede başvurulması",
+      "III. İşlemin önceden iptal edilmiş olmasının zorunluluğu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Tam yargı davasında idareye başvuru şarttır (İYUK m.13). Önceden iptal edilmiş olması zorunlu değildir."
+  },
+  {
+    "id": 1017,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre soruşturma sebebiyle görevden uzaklaştırma tedbiri en çok ne kadar sürebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 ay",
+      "B) 2 ay",
+      "C) 3 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Soruşturma nedeniyle görevden uzaklaştırma tedbiri en çok 3 ay devam edebilir."
+  },
+  {
+    "id": 1018,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Yönetmelik çıkarabilecek makamlarla ilgili hangisi yanlıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanlığı, bakanlıklar ve kamu tüzel kişileri yönetmelik çıkarabilir.",
+      "B) Kanunların uygulanmasını sağlamak üzere çıkarılır.",
+      "C) Tüm yönetmeliklerin Resmi Gazete'de yayımlanması zorunludur.",
+      "D) Üniversiteler yönetmelik çıkarabilir.",
+      "E) Kanun veya CKK yetkisi şarttır."
+    ],
+    "dogruCevap": 2,
+    "cozum": "Sadece yurt çapında uygulanacak yönetmelikler Resmi Gazete'de yayımlanır; tümünün yayımlanması zorunlu değildir."
+  },
+  {
+    "id": 1019,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri idari sözleşme türleri arasındadır?",
+    "onculListe": [
+      "I. Kamu hizmeti imtiyaz sözleşmeleri",
+      "II. İstikraz sözleşmeleri",
+      "III. Sıradan kırtasiye alım sözleşmeleri"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İmtiyaz ve istikraz idari sözleşmedir; kırtasiye alımı özel hukuk sözleşmesidir (III yanlış)."
+  },
+  {
+    "id": 1020,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Danıştay'ın istişari (idari) görevleri arasında aşağıdakilerden hangisi yer almaz?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kanun tasarıları hakkında görüş bildirmek",
+      "B) CKK taslaklarını incelemek",
+      "C) İdari sözleşme taslakları hakkında düşünce bildirmek",
+      "D) İlk derece mahkemesi olarak iptal davası görmek",
+      "E) Cumhurbaşkanının istemesi halinde inceleme yapmak"
+    ],
+    "dogruCevap": 3,
+    "cozum": "İlk derece mahkemesi olarak dava görmek Danıştay'ın yargısal görevidir, istişari görevi değildir."
+  },
+  {
+    "id": 1021,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "İdarenin takdir yetkisi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Hiçbir şekilde yargı denetimine tabi değildir.",
+      "B) Kamu yararı ve hizmet gerekleri ile sınırlandırılmıştır.",
+      "C) Bağlı yetkiyle eş anlamlıdır.",
+      "D) Maksat unsuru yönünden denetlenemez.",
+      "E) Sadece bakanlar kurulunca kullanılır."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Takdir yetkisi mutlak değildir; kamu yararı ve hizmet gerekleri çerçevesinde yargı denetimine tabidir."
+  },
+  {
+    "id": 1022,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri memurlara verilebilecek disiplin cezaları arasındadır?",
+    "onculListe": [
+      "I. Uyarma",
+      "II. Kınama",
+      "III. Aylıktan kesme"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Uyarma, kınama ve aylıktan kesme memuriyet disiplin cezalarıdır. Hepsi doğrudur."
+  },
+  {
+    "id": 1023,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memurun çekilme isteğinde bekleme süresi kural olarak en çok ne kadardır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10 gün",
+      "B) 1 ay",
+      "C) 2 ay",
+      "D) 3 ay",
+      "E) 6 ay"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Çekilen memur yerine atananın gelmesine veya kabulüne binaen en çok 1 ay görevine devam edebilir."
+  },
+  {
+    "id": 1024,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "İşlemlerin ortadan kaldırılması yolları ile ilgili hangileri doğrudur?",
+    "onculListe": [
+      "I. Geri alma: Hukuka aykırı işlemlerin geriye yürür şekilde kaldırılması",
+      "II. Kaldırma: Hukuka uygun işlemlerin geleceğe etkili kaldırılması",
+      "III. Kendiliğinden son bulma: Konunun imkansızlaşmasıyla hükümsüz kalması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Geri alma, kaldırma ve kendiliğinden sona erme tanımları tam ve doğrudur. Hepsi dahildir."
+  },
+  {
+    "id": 1025,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Merkezi idarenin atama ve nakil işlemlerine karşı açılacak iptal davalarında yetkili mahkeme kural olarak neresidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Davacının ikametgahı",
+      "B) Kamu görevlisinin yeni görev yerinin bulunduğu idare mahkemesi",
+      "C) İşlemi yapan merciin yeri",
+      "D) Ankara İdare Mahkemesi",
+      "E) Danıştay"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Özlük haklarıyla ilgili atama ve nakil davalarında yetkili mahkeme kamu görevlisinin yeni görev yeridir."
+  },
+  {
+    "id": 1026,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "1982 Anayasası'na göre AYM'de iptal davası açabilecek kurum ve kişiler kimlerdir?",
+    "onculListe": [
+      "I. Cumhurbaşkanı",
+      "II. TBMM üye tam sayısının 1/5'i milletvekilleri",
+      "III. En çok üyeye sahip iki siyasi parti grubu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Anayasa m.150 gereği iptal davası açma yetkisi Cumhurbaşkanı, 1/5 milletvekili ve en çok üyeye sahip iki siyasi parti grubuna aittir."
+  },
+  {
+    "id": 1027,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "2017 değişikliğiyle Türk hukuk sisteminden tamamen kaldırılan yürütme organı ve norm hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Bakanlar Kurulu ve Tüzük",
+      "B) Danıştay",
+      "C) Sayıştay",
+      "D) HSK",
+      "E) Askeri Yargıtay"
+    ],
+    "dogruCevap": 0,
+    "cozum": "2017 değişikliğiyle Bakanlar Kurulu kaldırılmış, tüzük normu yürürlükten kaldırılmıştır."
+  },
+  {
+    "id": 1028,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Milletvekilliğinin düşmesi kararlarına karşı Anayasa Mahkemesine iptal başvurusuyla ilgili ne söylenebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sadece şekil yönünden denetlenir.",
+      "B) Hem şekil hem esas yönünden iptal davası açılabilir.",
+      "C) Yargı denetimi kapalıdır.",
+      "D) Sadece Yargıtay denetleyebilir.",
+      "E) İdare mahkemeleri görevlidir."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Anayasa Mahkemesi milletvekilliğinin düşürülmesi kararlarına karşı hem şekil hem esas yönünden denetim yapar."
+  },
+  {
+    "id": 1029,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "1982 Anayasası'na göre TBMM'nin bilgi edinme ve denetim yolları arasında hangileri yer alır?",
+    "onculListe": [
+      "I. Yazılı soru",
+      "II. Meclis araştırması",
+      "III. Gensoru"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Gensoru 2017'de kaldırılmıştır; yazılı soru ve meclis araştırması geçerli denetim yollarıdır (I ve II doğru, III yanlış)."
+  },
+  {
+    "id": 1030,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre kanun teklif etme yetkisi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sadece Cumhurbaşkanına",
+      "B) Sadece TBMM üyelerine (milletvekillerine)",
+      "C) Bakanlar Kuruluna",
+      "D) Vatandaşlara",
+      "E) Danıştay'a"
+    ],
+    "dogruCevap": 1,
+    "cozum": "2017 değişikliğiyle kanun teklif etme yetkisi münhasıran milletvekillerine verilmiştir."
+  },
+  {
+    "id": 1031,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "OHAL döneminde çıkarılan Cumhurbaşkanlığı kararnamelerinin (OHAL CKK) rejimiyle ilgili hangileri doğrudur?",
+    "onculListe": [
+      "I. Aynı gün TBMM'ye sunulurlar.",
+      "II. Meclis tarafından üç ay içinde görüşülüp onaylanmalıdır.",
+      "III. Anayasa Mahkemesinde anayasaya aykırılık iddiasıyla dava açılamaz."
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "OHAL CKK'ları aynı gün Meclise sunulur, onaylanır ve AYM'de şekil/esas davasına konu edilemezler. Hepsi doğrudur."
+  },
+  {
+    "id": 1032,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Siyasi partilerin mali denetimini hangi yüksek kurum yapar?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yargıtay",
+      "B) Anayasa Mahkemesi (Sayıştay'ın yardımıyla)",
+      "C) Danıştay",
+      "D) İçişleri Bakanlığı",
+      "E) TBMM"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Siyasi partilerin mali denetimini Anayasa Mahkemesi, Sayıştay'ın yardımıyla gerçekleştirir."
+  },
+  {
+    "id": 1033,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Temel hak ve özgürlüklerin sınırlanması rejimi (Anayasa m.13) bakımından hangisi yanlıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yalnızca kanunla sınırlanabilir.",
+      "B) Ölçülülük ilkesine uygun olmalıdır.",
+      "C) CKK ile genel sınırlama yapılabilir.",
+      "D) Demokratik toplum düzeninin gereklerine aykırı olamaz.",
+      "E) Anayasa'nın sözüne ve ruhuna uygun olmalıdır."
+    ],
+    "dogruCevap": 2,
+    "cozum": "Temel hak ve özgürlükler CKK ile sınırlanamaz; münhasıran kanunla sınırlanabilir. C seçeneği yanlıştır."
+  },
+  {
+    "id": 1034,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "HSK'nın doğal başkanı kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı",
+      "B) Adalet Bakanı",
+      "C) Yargıtay Başkanı",
+      "D) Danıştay Başkanı",
+      "E) Meclis Başkanı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Hakimler ve Savcılar Kurulu'nun doğal başkanı Adalet Bakanıdır."
+  },
+  {
+    "id": 1035,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Hangileri AYM'ye bireysel başvuru yapabilir?",
+    "onculListe": [
+      "I. Gerçek kişiler",
+      "II. Yabancılar",
+      "III. Özel hukuk tüzel kişileri"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Kamu tüzel kişileri hariç her gerçek kişi, yabancı ve özel hukuk tüzel kişisi bireysel başvuru yapabilir. Hepsi doğrudur."
+  },
+  {
+    "id": 1036,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "TBMM seçimlerinin yenilenmesi (erken seçim) kararı için gereken üye tamsayısı çoğunluğu nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Salt çoğunluk (301)",
+      "B) Beşte üç (360)",
+      "C) Üçte iki (400)",
+      "D) Dörtte üç",
+      "E) Oy birliği"
+    ],
+    "dogruCevap": 1,
+    "cozum": "TBMM üye tam sayısının beşte üçü (360 milletvekili) çoğunlukla erken seçim kararı alabilir."
+  },
+  {
+    "id": 1037,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Milletvekili seçilebilme yaşı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 18",
+      "B) 21",
+      "C) 25",
+      "D) 30",
+      "E) 40"
+    ],
+    "dogruCevap": 0,
+    "cozum": "2017 anayasa değişikliğiyle milletvekili seçilme yaşı 18'e düşürülmüştür."
+  },
+  {
+    "id": 1038,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "TBMM toplantı ve karar yetersayısı ile ilgili hangisi doğrudur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Üye tam sayısının 1/3'ü (200) ile toplanır, katılanların salt çoğunluğuyla karar verir.",
+      "B) Her zaman 301 kişiyle toplanmak zorundadır.",
+      "C) Karar sayısı üye tam sayısının yarısından az olamaz.",
+      "D) Toplantı yetersayısı 151'dir.",
+      "E) Oy birliği şarttır."
+    ],
+    "dogruCevap": 0,
+    "cozum": "TBMM en az 200 milletvekiliyle toplanır ve katılanların salt çoğunluğuyla karar alır (karar sayısı 151'den az olamaz)."
+  },
+  {
+    "id": 1039,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Anayasa Mahkemesi toplam kaç üyeden oluşur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 11",
+      "B) 15",
+      "C) 17",
+      "D) 21",
+      "E) 9"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Anayasa Mahkemesi 15 üyeden kurulu bir yüksek mahkemedir."
+  },
+  {
+    "id": 1040,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "5442 sayılı Kanun'a göre 'yetki genişliği' ilkesi kimin için öngörülmüştür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kaymakamlar",
+      "B) Valiler",
+      "C) Belediye başkanları",
+      "D) Muhtarlar",
+      "E) Bölge mahkemesi başkanları"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yetki genişliği anayasal olarak yalnızca valiler için öngörülmüş merkezi idare esnekliğidir."
+  },
+  {
+    "id": 1041,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "5442 sayılı Kanun'a göre İl İdare Kurulu üyeleri kimlerdir?",
+    "onculListe": [
+      "I. Hukuk İşleri Müdürü",
+      "II. Defterdar",
+      "III. Milli Eğitim Müdürü"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "İl idare kurulu valinin başkanlığında hukuk işleri, defterdar ve ilgili il müdürlerinden oluşur. Hepsi dahildir."
+  },
+  {
+    "id": 1042,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Meskun sahasının nüfusu en az kaç olan yerlerde yeni belediye kurulabilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 2.000",
+      "B) 5.000",
+      "C) 10.000",
+      "D) 20.000",
+      "E) 50.000"
+    ],
+    "dogruCevap": 1,
+    "cozum": "5393 sayılı Kanun'a göre nüfusu 5.000 ve üzerinde olan yerlerde belediye kurulabilir."
+  },
+  {
+    "id": 1043,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Büyükşehir belediyesi statüsü kazanabilmek için bir ilin asgari toplam nüfusu kaç olmalıdır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 250.000",
+      "B) 500.000",
+      "C) 750.000",
+      "D) 1.000.000",
+      "E) 2.000.000"
+    ],
+    "dogruCevap": 2,
+    "cozum": "5216 sayılı Kanun'a göre toplam nüfusu 750.000'den fazla olan iller büyükşehir edilebilir."
+  },
+  {
+    "id": 1044,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Mülki idare bölümlerinin (il, ilçe) kurulması veya kaldırılması hangi işlemle yapılır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı kararı",
+      "B) Kanunla",
+      "C) İçişleri Bakanlığı yönetmeliği",
+      "D) Valilik ortak kararı",
+      "E) Danıştay kararı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl ve ilçe kurulması veya kaldırılması ancak KANUNLA yapılabilir."
+  },
+  {
+    "id": 1045,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İl özel idaresinin karar organı hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İl Encümeni",
+      "B) İl Genel Meclisi",
+      "C) Vali",
+      "D) İdare Kurulu",
+      "E) Belediye Meclisi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl özel idaresinin karar organı İl Genel Meclisidir."
+  },
+  {
+    "id": 1046,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Köy ihtiyar meclisinin başkanı kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Köy İmamı",
+      "B) Köy Muhtarı",
+      "C) Kaymakam",
+      "D) İlçe Özel İdare Müdürü",
+      "E) En yaşlı köylü"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Köy ihtiyar meclisinin başkanı ve köy tüzel kişiliğinin temsilcisi muhtardır."
+  },
+  {
+    "id": 1047,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Belediye meclisinin feshi veya düşürülmesi kararını verme yetkisi hangi yüksek yargı organına aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yargıtay",
+      "B) Anayasa Mahkemesi",
+      "C) Danıştay",
+      "D) Bölge İdare Mahkemesi",
+      "E) Sayıştay"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye meclisinin feshi İçişleri Bakanlığı bildirimi üzerine Danıştay kararıyla gerçekleşir."
+  },
+  {
+    "id": 1048,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Mahalli idare organlarını tedbiren görevden uzaklaştırma yetkisi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı",
+      "B) İçişleri Bakanı",
+      "C) Vali",
+      "D) Danıştay",
+      "E) Meclis"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Mahalli idare organları ve başkanları soruşturma nedeniyle İçişleri Bakanı tarafından görevden uzaklaştırılabilir."
+  },
+  {
+    "id": 1049,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Merkezi idarenin taşra teşkilatı kademeleri sırasıyla hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İl - İlçe - Bucak",
+      "B) İl - Bölge - Köy",
+      "C) İlçe - Belde - Mahalle",
+      "D) Bölge - İl - Metropol",
+      "E) Özel İdare - Belediye - Köy"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Merkezi idarenin taşra teşkilatı İl, İlçe ve Bucak kademelerinden oluşur."
+  },
+  {
+    "id": 1050,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Anayasa m.127'ye göre mahalli idare organlarının seçimleri kaç yılda bir yapılır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 7"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Mahalli idare organlarının seçimleri 5 yılda bir yapılır."
+  },
+  {
+    "id": 1051,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye meclisinin olağan toplantı zamanı ne sıklıkla gerçekleşir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Her yıl kasımda",
+      "B) Her ayın ilk haftası önceden kararlaştırılan günde",
+      "C) 6 ayda bir",
+      "D) Vali istediğinde",
+      "E) Haftada bir"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Belediye meclisi her ayın ilk haftası önceden belirlediği günde olağan toplantısını yapar."
+  },
+  {
+    "id": 1052,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İl özel idaresinde yürütme organı ve encümen başkanı kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Meclis Başkanı",
+      "B) Vali",
+      "C) Genel Sekreter",
+      "D) Defterdar",
+      "E) Kaymakam"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl özel idaresinde yürütme vali'dir ve encümene de vali başkanlık eder."
+  },
+  {
+    "id": 1053,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Belediye encümeninin üye yapısı nasıldır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Tamamı halk seçer.",
+      "B) Yarı yarıya meclisçe seçilen ve başkanca atanan üyelerden oluşur.",
+      "C) Sadece belediye başkanıdır.",
+      "D) Valilik atamasıdır.",
+      "E) Dışarıdan uzmanlardır."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Belediye encümeni il ve ilçe belediyelerinde yarı yarıya meclis seçimi ve başkan atamasıyla oluşur."
+  },
+  {
+    "id": 1054,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Köy ihtiyar meclisinde yer alan 'doğal üyeler' kimlerdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kaymakam ve muhtar",
+      "B) Köy başöğretmeni ve köy imamı",
+      "C) Bekçi ve kahya",
+      "D) En yaşlı iki köylü",
+      "E) Tarım müdürü"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Köy ihtiyar meclisinin doğal üyeleri başöğretmen ve köy imamıdır."
+  },
+  {
+    "id": 1055,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Mahalli idarelerin birlik kurabilmesi hangi bakanlığın iznine tabidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Maliye Bakanlığı",
+      "B) İçişleri Bakanlığı",
+      "C) Çevre ve Şehircilik Bakanlığı",
+      "D) Adalet Bakanlığı",
+      "E) Dışişleri Bakanlığı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Mahalli idarelerin birlik kurması İçişleri Bakanlığının iznine bağlıdır."
+  },
+  {
+    "id": 1056,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye bütçesi meclis tarafından en geç hangi ayda onaylanmalıdır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Ağustos",
+      "B) Ekim",
+      "C) Aralık ayı toplantı döneminde (yılbaşından önce)",
+      "D) Şubat",
+      "E) Nisan"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye bütçesi aralık ayında görüşülerek yılbaşından önce onaylanır."
+  },
+  {
+    "id": 1057,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye bütçesinin kesin hesabı hangi ayda meclis tarafından karara bağlanır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Ocak",
+      "B) Mart",
+      "C) Nisan",
+      "D) Ağustos",
+      "E) Aralık"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye kesin hesabı izleyen mali yılın Nisan ayında meclisçe karara bağlanır."
+  },
+  {
+    "id": 1058,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Mahalli idarelerin dış denetimini TBMM adına hangi yüksek kurum yapar?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sayıştay",
+      "B) Yargıtay",
+      "C) Danıştay",
+      "D) AYM",
+      "E) İçişleri Bakanlığı"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Mahalli idarelerin dış denetimi TBMM adına Sayıştay tarafından gerçekleştirilir."
+  },
+  {
+    "id": 1059,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Belediye sınırları dışında olup belediye hizmetlerinin götürülebildiği alanlara ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Nazım alan",
+      "B) Mücavir alan",
+      "C) Metropol",
+      "D) Taşra",
+      "E) Özel saha"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Belediye sınırları dışında olup hizmet götürülen alanlar mücavir alandır."
+  },
+  {
+    "id": 1060,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Fırsat maliyeti (alternatif maliyet) kavramı aşağıdakilerden hangisini ifade eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Toplam para harcamalarını",
+      "B) Bir kararı verirken vazgeçilen en yüksek değerli alternatifin değerini",
+      "C) Sabit maliyetleri",
+      "D) Enflasyon kaybını",
+      "E) Kamu harcamalarını"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Fırsat maliyeti, bir tercih yapılırken vazgeçilen en yüksek değerli diğer seçenektir."
+  },
+  {
+    "id": 1061,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "yorum",
+    "soru": "Üretim İmkanları Eğrisi'nin (ÜIE) orijine göre içbükey olmasının nedeni nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Artan fırsat maliyeti",
+      "B) Kaynakların tam kullanımı",
+      "C) Teknolojik gelişme",
+      "D) Sabit verimler",
+      "E) Tüketici tercihleri"
+    ],
+    "dogruCevap": 0,
+    "cozum": "ÜIE'nin içbükeyliği artan fırsat maliyeti ve kaynakların farklı etkinlik derecelerine dayanır."
+  },
+  {
+    "id": 1062,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Tüketilen miktar arttıkça marjinal faydanın sürekli azalması hangi yasa ile ifade edilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Engel Yasası",
+      "B) Gossen I. Yasası (Azalan Marjinal Fayda)",
+      "C) Say Kanunu",
+      "D) King Yasası",
+      "E) Gossen II"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Tüketim arttıkça marjinal faydanın düşmesi Gossen I. Yasası (Azalan Marjinal Fayda) olarak bilinir."
+  },
+  {
+    "id": 1063,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Fiyatı arttığında talebi artan (talep kanununun istisnası olan) özel düşük mallara ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Giffen malı",
+      "B) Lüks mal",
+      "C) Normal mal",
+      "D) Tamamlayıcı mal",
+      "E) Kamusal mal"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Fiyatı arttığında talebi artan düşük mallar Giffen malı olarak adlandırılır."
+  },
+  {
+    "id": 1064,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İki mal arasındaki çapraz talep esnekliği pozitif (+ s) çıkarsa bu mallar arasındaki ilişki nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Tamamlayıcı mallar",
+      "B) İkame (rakip) mallar",
+      "C) Bağımsız mallar",
+      "D) Giffen malları",
+      "E) Düşük mallar"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Çapraz esnekliğin pozitif olması malların ikame (rakip) olduğunu gösterir."
+  },
+  {
+    "id": 1065,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "Tam rekabet piyasasının temel özellikleri arasında hangileri yer alır?",
+    "onculListe": [
+      "I. Atomizasyon (çok sayıda alıcı-satıcı)",
+      "II. Homojenlik (malların aynı olması)",
+      "III. Piyasaya giriş çıkışların serbest olması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Atomizasyon, homojenlik ve serbest giriş-çıkış tam rekabetin temel şartlarıdır. Hepsi doğrudur."
+  },
+  {
+    "id": 1066,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Monopol gücünün ölçülmesinde kullanılan 'Lerner Endeksi' formülü nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) (P - MC) / P",
+      "B) MC / P",
+      "C) P / MR",
+      "D) Ed x P",
+      "E) AC - MC"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Lerner Endeksi L = (P - MC) / P formülüyle hesaplanır ve 0 ile 1 arasında değer alır."
+  },
+  {
+    "id": 1067,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Nominal GSYİH'nin Reel GSYİH'ye bölünmesiyle elde edilen fiyat endeksine ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) TÜFE",
+      "B) ÜFE",
+      "C) GSYİH Deflatörü",
+      "D) Yaşam Maliyeti",
+      "E) Pasche Endeksi"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Nominal GSYİH / Reel GSYİH oranı GSYİH Deflatörünü verir."
+  },
+  {
+    "id": 1068,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Marjinal Tüketim Eğilimi (MPC) ile Marjinal Tasarruf Eğiliminin (MPS) toplamı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 0",
+      "B) 0.5",
+      "C) 1",
+      "D) 10",
+      "E) Sonsuz"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Gelirin her ilave birimi ya tüketilir ya tasarruf edilir; MPC + MPS = 1'dir."
+  },
+  {
+    "id": 1069,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kamu harcamaları ve vergilerin eşit miktarda artırılmasıyla milli gelirin o miktar kadar artacağını savunan teorem hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Haavelmo Teoremi (Dengeli Bütçe Teoremi)",
+      "B) Ricardo Denklik",
+      "C) Modigliani Hipotezi",
+      "D) Say Kanunu",
+      "E) Friedman Hipotezi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Haavelmo Teoremi'ne göre kamu harcaması ve vergi aynı anda eşit artarsa çarpan 1 olur, gelir o kadar artar."
+  },
+  {
+    "id": 1070,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Fisher'ın miktar denklemi (değişim denklemi) aşağıdakilerden hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) C = c0 + cY",
+      "B) MV = PY",
+      "C) IS = LM",
+      "D) S = I",
+      "E) AD = AS"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Klasik miktar denklemi M x V = P x Y şeklindedir."
+  },
+  {
+    "id": 1071,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "oncul",
+    "soru": "IS-LM modelinde genişletici maliye politikası uygulandığında hangileri gerçekleşir?",
+    "onculListe": [
+      "I. IS eğrisi sağa kayar.",
+      "II. Faiz oranı yükselir.",
+      "III. Milli gelir artar."
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Genişletici maliye politikası IS'yi sağa kaydırır, faizi ve milli geliri artırır. Hepsi doğrudur."
+  },
+  {
+    "id": 1072,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kısa dönem Phillips eğrisi enflasyon ile işsizlik arasında nasıl bir ilişki olduğunu gösterir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Pozitif yönlü ilişki",
+      "B) Negatif (ters yönlü) ilişki",
+      "C) İlişki yoktur",
+      "D) Sabit oranlı ilişki",
+      "E) Doğrusal artış"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kısa dönem Phillips eğrisi enflasyon ile işsizlik arasında ters yönlü (negatif) ilişki olduğunu gösterir."
+  },
+  {
+    "id": 1073,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Devalüasyon sonrasında dış ticaret dengesinin ilk başta kötüleşip ardından düzelmesini gösteren etkiye ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Laffer Eğrisi",
+      "B) J-Eğrisi Etkisi",
+      "C) Lorenz Eğrisi",
+      "D) Phillips Eğrisi",
+      "E) Beveridge Eğrisi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Devalüasyonun gecikmeli iyileştirici etkisini gösteren grafik J-Eğrisi'dir."
+  },
+  {
+    "id": 1074,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İzmir İktisat Kongresi hangi yıl toplanmıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1920",
+      "B) 1923",
+      "C) 1925",
+      "D) 1929",
+      "E) 1933"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İzmir İktisat Kongresi 17 Şubat - 4 Mart 1923 tarihleri arasında toplanmıştır."
+  },
+  {
+    "id": 1075,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Köylünün üzerindeki en büyük vergi yükü olan ve 1925 yılında kaldırılan vergi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Aşar Vergisi",
+      "B) Varlık Vergisi",
+      "C) Ağnam Vergisi",
+      "D) Emlak Vergisi",
+      "E) Yol Vergisi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Tarım ürünlerinden alınan ve köylüyü zorlayan Aşar vergisi 1925'te kaldırılmıştır."
+  },
+  {
+    "id": 1076,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye'de planlı kalkınma dönemini başlatan DPT hangi yıl kurulmuştur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1950",
+      "B) 1960",
+      "C) 1961",
+      "D) 1965",
+      "E) 1970"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Devlet Planlama Teşkilatı (DPT) 1960 yılında kurulmuş, planlı dönem 1963'te başlamıştır."
+  },
+  {
+    "id": 1077,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye'de dışa açık ekonomik modele geçişin miladı kabul edilen karar paketi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 24 Ocak 1980 Kararları",
+      "B) 5 Nisan 1994 Kararları",
+      "C) 1958 Moratoryumu",
+      "D) İzmir Kongresi",
+      "E) Güçlü Ekonomiye Geçiş"
+    ],
+    "dogruCevap": 0,
+    "cozum": "24 Ocak 1980 kararları dışa açık serbest piyasaya geçişin miladıdır."
+  },
+  {
+    "id": 1078,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye ile AB arasında Gümrük Birliği hangi tarihte yürürlüğe girmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 Ocak 1990",
+      "B) 1 Ocak 1996",
+      "C) 17 Aralık 2004",
+      "D) 1 Ocak 2000",
+      "E) 15 Temmuz 1995"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Türkiye-AB Gümrük Birliği 1 Ocak 1996'da yürürlüğe girmiştir."
+  },
+  {
+    "id": 1079,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Gelir dağılımı eşitsizliğini ölçen Gini katsayısının 0'a yaklaşması ne anlama gelir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Mutlak eşitsizliğin arttığını",
+      "B) Mutlak eşitliğin arttığını",
+      "C) Enflasyonun sıfırlandığını",
+      "D) Büyümenin durduğunu",
+      "E) İşsizliğin bittiğini"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Gini katsayısının 0 olması mutlak eşitliği, 1 olması mutlak eşitsizliği gösterir."
+  },
+  {
+    "id": 1080,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İnsan haklarının tüm dünya insanları için geçerli olmasını ifade eden niteliği nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Mutlaklık",
+      "B) Evrensellik",
+      "C) Doğuştanlık",
+      "D) Devredilemezlik",
+      "E) Bireysellik"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Tüm dünyada herkes için geçerli olması evrensellik ilkesidir."
+  },
+  {
+    "id": 1081,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Bireyi devlete karşı koruyan 'Negatif Statü Hakları' sınıflandırmasını yapan Alman hukukçu kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Karel Vasak",
+      "B) George Jelinek",
+      "C) John Locke",
+      "D) Montesquieu",
+      "E) Thomas Hobbes"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Negatif, pozitif ve aktif statü hakları sınıflandırmasını George Jelinek yapmıştır."
+  },
+  {
+    "id": 1082,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İnsan haklarını tarihsel dönemlere göre kuşaklara ayıran Fransız hukukçu kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Karel Vasak",
+      "B) George Jelinek",
+      "C) Jean-Jacques Rousseau",
+      "D) Hans Kelsen",
+      "E) Max Weber"
+    ],
+    "dogruCevap": 0,
+    "cozum": "İnsan haklarını 1, 2, 3. kuşak olarak sınıflandıran Karel Vasak'tır."
+  },
+  {
+    "id": 1083,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kralın yetkilerini soylular lehine sınırlayan ilk İngiliz belgesi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Magna Carta (1215)",
+      "B) Habeas Corpus",
+      "C) Bill of Rights",
+      "D) Virginia Bildirisi",
+      "E) 1789 Bildirgesi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "1215 Magna Carta krallık yetkilerini sınırlayan ilk belgedir."
+  },
+  {
+    "id": 1084,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "İnsan Hakları Evrensel Bildirgesi hangi tarihte kabul edilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10 Aralık 1948",
+      "B) 4 Kasım 1950",
+      "C) 24 Ekim 1945",
+      "D) 14 Temmuz 1789",
+      "E) 1 Ocak 1954"
+    ],
+    "dogruCevap": 0,
+    "cozum": "İHEB 10 Aralık 1948'de kabul edilmiştir (Dünya İnsan Hakları Günü)."
+  },
+  {
+    "id": 1085,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Osmanlı'da padişahın yetkilerini ilk kez sınırlayan sözleşme niteliğindeki ilk belge hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sened-i İttifak (1808)",
+      "B) Tanzimat Fermanı (1839)",
+      "C) Islahat Fermanı",
+      "D) Kanun-u Esasi",
+      "E) Gülhane Hattı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "1839 Tanzimat Fermanı padişah yetkilerini sınırlayan ilk belgedir."
+  },
+  {
+    "id": 1086,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Türkiye AİHM'e bireysel başvuru hakkını hangi yıl tanımıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1954",
+      "B) 1987",
+      "C) 1990",
+      "D) 2004",
+      "E) 2012"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Türkiye bireysel başvuru hakkını 1987'de tanımış, 1990'da zorunlu yargı yetkisini kabul etmiştir."
+  },
+  {
+    "id": 1087,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "AİHM'e başvuru için iç hukuk yollarının tüketilmesinden sonra aranan hak düşürücü süre (yeni protokolle) kaç aydır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 ay",
+      "B) 3 ay",
+      "C) 4 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Protokolle birlikte eski 6 aylık süre 4 aya düşürülmüştür."
+  },
+  {
+    "id": 1088,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Anayasa Mahkemesi'ne bireysel başvuru hangi anayasa değişikliğiyle getirilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1982 Anayasası",
+      "B) 2010 Değişikliği",
+      "C) 2017 Değişikliği",
+      "D) 2001 Değişikliği",
+      "E) 1995 Değişikliği"
+    ],
+    "dogruCevap": 1,
+    "cozum": "AYM'ye bireysel başvuru 2010 Anayasa değişikliği ile getirilmiştir."
+  },
+  {
+    "id": 1089,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kamu Denetçiliği Kurumu (Ombudsmanlık) kime bağlı olarak kurulmuştur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanlığı",
+      "B) TBMM Başkanlığı",
+      "C) Adalet Bakanlığı",
+      "D) Danıştay",
+      "E) Başbakanlık"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kamu Denetçiliği Kurumu TBMM'ye bağlı olarak kurulmuştur."
+  },
+  {
+    "id": 1090,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "4483 sayılı Kanun'a göre ilçede görevli bir ilçe müdürü hakkında soruşturma izni vermeye yetkili merci kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Vali",
+      "B) Kaymakam",
+      "C) Cumhuriyet Başsavcısı",
+      "D) Bakan",
+      "E) Bölge İdare Mahkemesi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "4483 sayılı Kanun'a göre ilçedeki müdürler için soruşturma izni verme yetkisi kaymakama aittir."
+  },
+  {
+    "id": 1091,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "3628 sayılı Kanun'a göre genel mal bildirimleri hangi yıllarda yenilenir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sonu 0 ve 5 ile biten yılların en geç şubat ayı sonuna kadar",
+      "B) Her yıl ocak ayında",
+      "C) Sonu 1 ve 6 ile biten yıllar",
+      "D) Seçim yıllarında",
+      "E) 3 yılda bir"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Genel mal bildirimleri sonu 0 ve 5 ile biten yılların şubat sonuna kadar yenilenir."
+  },
+  {
+    "id": 1092,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre Yüksek Seçim Kurulu (YSK) kararlarına karşı nereye itiraz edilebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Anayasa Mahkemesine",
+      "B) Danıştay'a",
+      "C) Yargıtay'a",
+      "D) Kararlar kesindir, hiçbir mercie itiraz edilemez",
+      "E) Bölge İdare Mahkemesine"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Anayasa m.79 gereğince YSK kararları kesindir, başka mercie itiraz edilemez."
+  },
+  {
+    "id": 1093,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Siyasi parti kurabilmek için gereken asgari Türk vatandaşı kurucu sayısı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 7",
+      "B) 20",
+      "C) 30",
+      "D) 50",
+      "E) 100"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Siyasi partiler en az 30 Türk vatandaşı tarafından kurulur."
+  },
+  {
+    "id": 1094,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre OHAL ilan etme yetkisi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) TBMM",
+      "B) Cumhurbaşkanı",
+      "C) Bakanlar Kurulu",
+      "D) İçişleri Bakanlığı",
+      "E) MGK"
+    ],
+    "dogruCevap": 1,
+    "cozum": "OHAL ilan etme yetkisi Cumhurbaşkanına aittir (en çok 6 ay için)."
+  },
+  {
+    "id": 1095,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memurun evlenmesi halinde verilen mazeret izni süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 5",
+      "C) 7",
+      "D) 10",
+      "E) 15"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Memurun evlenmesi durumunda kanunen 3 gün mazeret izni verilir."
+  },
+  {
+    "id": 1096,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre eşi doğum yapan memura verilen babalık izni süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 5",
+      "C) 7",
+      "D) 10",
+      "E) 15"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Eşi doğum yapan memura 10 gün babalık izni verilir."
+  },
+  {
+    "id": 1097,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1 Ocak 2005 tarihinde paradan kaç sıfır atılarak YTL'ye geçilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 8"
+    ],
+    "dogruCevap": 3,
+    "cozum": "2005 yılında paradan 6 sıfır atılarak Yeni Türk Lirası'na (YTL) geçilmiştir."
+  },
+  {
+    "id": 1098,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Bilgi Edinme Hakkı Kanunu'na göre normal başvuru cevap süresi en geç kaç iş günüdür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 7",
+      "B) 10",
+      "C) 15",
+      "D) 30",
+      "E) 60"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Bilgi edinme başvurularına en geç 15 iş günü içinde cevap verilir."
+  },
+  {
+    "id": 1099,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre TBMM üye tam sayısı kaç kişidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 500",
+      "B) 550",
+      "C) 600",
+      "D) 650",
+      "E) 501"
+    ],
+    "dogruCevap": 2,
+    "cozum": "2017 değişikliğiyle TBMM üye tam sayısı 600 kişiye çıkarılmıştır."
+  },
+  {
+    "id": 1100,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 1",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre yıllık izin süreleri hizmet yılı 1 ila 10 yıl arasında olanlar için kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10",
+      "B) 15",
+      "C) 20",
+      "D) 30",
+      "E) 40"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Hizmeti 1 yıldan 10 yıla kadar olan memurların yıllık izni 20 gündür (10 yıldan fazla olanlar için 30 gündür)."
+  }
+[
+  {
+    "id": 3001,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Aşağıdakilerden hangileri idari işlemlerin icrai olma özelliğinin sonuçları arasında yer alır?",
+    "onculListe": [
+      "I. İdarenin, işlemini yürütmek için mahkeme kararına ihtiyaç duymaması",
+      "II. İşlemin yapıldığı andan itibaren hukuki sonuç doğurması",
+      "III. İşleme karşı açılan iptal davasının kendiliğinden yürütmeyi durdurması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İcrai işlemler doğrudan uygulanır ve yapıldığı an sonuç doğurur (I ve II doğru). Ancak İYUK m.27 gereği dava açılması kural olarak yürütmeyi durdurmaz (III yanlış)."
+  },
+  {
+    "id": 3002,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İdare hukukunda 'Yetki Gaspı' kavramı aşağıdakilerden hangisini ifade eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Hiçbir idari merciin görev alanına girmeyen, adli veya yasama organının görev alanına giren bir konuda işlem tesis edilmesini",
+      "B) Alt kademedeki bir memurun üst makamın yetkisini kullanmasını",
+      "C) Yetkinin kanuni dayanak olmadan devredilmesini",
+      "D) Coğrafi yetki sınırlarının aşılmasını",
+      "E) Süresi geçmiş bir yetkinin kullanılmasını"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Yetki gaspı, idare adına yetkisi olmayan bir organın (yasama ya da yargı alanına giren bir konunun) işlem yapmasıdır; en ağır yetki sakatlığıdır."
+  },
+  {
+    "id": 3003,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "İdari sözleşmelerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Taraflardan en az biri idari kamu tüzel kişisidir.",
+      "B) Kamu hizmetinin yürütülmesi amacıyla yapılırlar.",
+      "C) Çıkan uyuşmazlıklar adli yargı mercilerinde çözümlenir.",
+      "D) İdarenin tek taraflı değişiklik ve fesih yetkisi bulunur.",
+      "E) Mali dengenin bozulması durumunda idare dengeyi sağlayıcı önlemler alabilir."
+    ],
+    "dogruCevap": 2,
+    "cozum": "İdari sözleşmelerden doğan uyuşmazlıklar idari yargının (idare mahkemeleri ve Danıştay) görev alanına girer, adli yargıda çözülmez."
+  },
+  {
+    "id": 3004,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri kamu görevlilerinin disiplin soruşturmalarında uyulması gereken temel ilkelerdendir?",
+    "onculListe": [
+      "I. Savunma hakkının kullandırılması",
+      "I. Soruşturmacının görevlendirilmesinde yetki kuralına uyulması",
+      "III. Aynı fiilden dolayı birden fazla disiplin cezası verilebilmesi"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Savunma hakkı şarttır ve soruşturmacı usulüne uygun atanmalıdır (I ve II doğru). Ancak 'ne bis in idem' kuralı gereği aynı fiilden dolayı iki disiplin cezası verilemez (III yanlış)."
+  },
+  {
+    "id": 3005,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre devlet memurluğuna alınacaklarda aranan genel şartlar arasında aşağıdakilerden hangisi yer almaz?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Türk vatandaşı olmak",
+      "B) Kamu haklarından mahrum bulunmamak",
+      "C) En az lise mezunu olmak",
+      "D) Belirli suçlardan mahkum olmamak",
+      "E) Görevini devamlı yapmasına engel akıl hastalığı bulunmamak"
+    ],
+    "dogruCevap": 2,
+    "cozum": "657 m.48'e göre memuriyette genel şartlar arasında ortaokul, ilkokul mezuniyeti gereken kadrolar da olabileceğinden 'en az lise mezunu olmak' genel şart değildir."
+  },
+  {
+    "id": 3006,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "İdarenin kusursuz sorumluluk halleriyle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdarenin sorumluluğu için mutlaka kusurlu bir eylemi aranır.",
+      "B) Sosyal risk ilkesi ve fedakarlığın denkleştirilmesi ilkelerine dayanır.",
+      "C) Yalnızca hukuka aykırı eylemlerde uygulanır.",
+      "D) Zarar görenin hiçbir surette kusuru indirime sebep olmaz.",
+      "E) Sadece maddi tazminatla sınırlıdır, manevi tazminat ödenmez."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kusursuz sorumlulukta idarenin kusuru aranmaz; fedakarlığın denkleştirilmesi ve sosyal risk ilkeleri temel alınır."
+  },
+  {
+    "id": 3007,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "İYUK m.11 kapsamında üst makama yapılan başvurunun sonuçlarıyla ilgili hangileri doğrudur?",
+    "onculListe": [
+      "I. Dava açma süresini durdurur.",
+      "II. Başvuru tarihine kadar geçen süreyi yakar, süre baştan başlar.",
+      "III. Makam 30 gün içinde zımni reddederse kalan dava açma süresi işlemeye devam eder."
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Başvuru süreyi durdurur, kalan süre işler (I ve III doğru). Süre baştan başlamaz, durduğu andan itibaren kalan süre devam eder (II yanlış)."
+  },
+  {
+    "id": 3008,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 1",
+    "tip": "bilgi",
+    "soru": "Kamulaştırmasız el atma durumunda açılacak dava türü kural olarak hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İptal davası",
+      "B) Tam yargı davası",
+      "C) Adli yargıda tazminat davası",
+      "D) Vergi davası",
+      "E) Disiplin soruşturması"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Kamulaştırmasız el atma eylemi hukuki el atma hariç fiili el atmalarda adli yargıda (asliye hukuk) mülkiyete tecavüz/tazminat davası olarak görülür."
+  },
+  {
+    "id": 3009,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "Memurun kademe ilerlemesinin durdurulması cezasına karşı idari yargıda dava açma süresi ve mercii nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 30 gün - İdare Mahkemesi",
+      "B) 60 gün - İdare Mahkemesi",
+      "C) 15 gün - Danıştay",
+      "D) 30 gün - Kamu Denetçiliği",
+      "E) 60 gün - Yüksek Disiplin Kurulu"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Özel kanunlarda (örneğin İYUK'ta özel süre öngörülenler hariç) genel dava açma süresi İdare Mahkemelerinde 60 gündür."
+  },
+  {
+    "id": 3010,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun'a göre soruşturma izni vermeye yetkili merci kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhuriyet Başsavcısı",
+      "B) İlgili atamaya yetkili amir",
+      "C) Danıştay 1. Dairesi",
+      "D) İçişleri Bakanı",
+      "E) Yargıtay"
+    ],
+    "dogruCevap": 1,
+    "cozum": "4483 sayılı Kanun gereği memurlar hakkında soruşturma izni verme yetkisi kural olarak unvanlarına göre atamaya yetkili amirdir."
+  },
+  {
+    "id": 3011,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri Danıştay'ın ilk derece mahkemesi olarak baktığı davalar arasındadır?",
+    "onculListe": [
+      "I. Bakanlıkların düzenleyici işlemlerine karşı açılan iptal davaları",
+      "II. Cumhurbaşkanlığı kararnamelerine karşı açılan iptal davaları",
+      "III. Müşterek kararnamelere karşı açılan iptal davaları"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Bakanlık yönetmelikleri, CKK'lar ve müşterek kararnamelere karşı açılan iptal davalarında Danıştay ilk derece mahkemesi olarak görev yapar. Hepsi doğrudur."
+  },
+  {
+    "id": 3012,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İdare hukukunda 'Yetki Tecavüzü' (görev tecavüzü) ne anlama gelir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İki idari makamın yetkilerini karşılıklı gasp etmesi",
+      "B) Bir idari makamın, yasama veya yargı organının yetkisini kullanması",
+      "C) Merkezi idare biriminin yerel yönetim biriminin yetki alanına müdahale etmesi",
+      "D) Astın üstün yetkisini kullanması",
+      "E) Yetkisiz bir memurun imza atması"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Merkezi idare ile yerinden yönetimler ya da farklı idari özerklik alanları arasındaki yetki aşımı yetki (görev) tecavüzü olarak adlandırılır."
+  },
+  {
+    "id": 3013,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri idari işlemlerin sebep unsuru yönünden sakatlık hallerindendir?",
+    "onculListe": [
+      "I. İşlemin dayanaksız (gerekçesiz) olması",
+      "II. Maddi hata içermesi",
+      "III. Yetkisiz makamca alınmış olması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Sebep unsuru işlemin yapılma gerekçesidir (maddi hata ve gerekçe eksikliği sebep sakatlığıdır). III ise yetki sakatlığıdır."
+  },
+  {
+    "id": 3014,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre devlet memurlarına verilecek 'Aylıktan Kesme' cezası memurun brüt aylığından ne kadar oranında kesinti yapılmasını öngörür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) %10 ila %25",
+      "B) %1/30 ila %1/8",
+      "C) %50",
+      "D) %5",
+      "E) %30 ila %50"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Aylıktan kesme cezası memurun brüt aylığından 1/30 ila 1/8 arasında kesinti yapılmasını öngörür (oran %3.3 ile %12.5 arası veya yaklaşık %10-%25 aralığı kanuni tanımda 1/30-1/8 olarak geçer)."
+  },
+  {
+    "id": 3015,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "İptal davası ile tam yargı davasının aynı dilekçeyle açılması durumunda İYUK gereği mahkeme nasıl bir karar verir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Her iki dava da reddedilir.",
+      "B) Davaların ayrılmasına (tefrik) karar verilir.",
+      "C) Sadece tam yargı davası görülür.",
+      "D) Dosya Danıştay'a gönderilir.",
+      "E) Dava dilekçesi iptal edilir."
+    ],
+    "dogruCevap": 1,
+    "cozum": "İYUK gereği aynı dilekçeyle hem iptal hem tam yargı davası açılabilir; mahkeme bunların tefrikine (ayrılmasına) karar vererek yargılamaya devam eder."
+  },
+  {
+    "id": 3016,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Kamulaştırmada bedel tespiti ve tescil davaları hangi mahkemede açılır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İdare Mahkemesi",
+      "B) Asliye Hukuk Mahkemesi",
+      "C) Danıştay",
+      "D) Bölge İdare Mahkemesi",
+      "E) Sulh Hukuk Mahkemesi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kamulaştırma bedel tespiti ve mülkiyetin idareye tescili davaları adli yargıda Asliye Hukuk Mahkemelerinde görülür."
+  },
+  {
+    "id": 3017,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri kamu mallarının korunmasına ilişkin ayrıcalıklar arasındadır?",
+    "onculListe": [
+      "I. Haczedilememe",
+      "II. Özel mülkiyete konu olabilme",
+      "III. Zamanaşımıyla iktisap edilememe"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Kamu malları haczedilemez ve zamanaşımıyla kazanılamaz (I ve III doğru). Özel mülkiyete konu olamazlar (II yanlış)."
+  },
+  {
+    "id": 3018,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memuriyetten çıkarma cezasını verme yetkisi hangi kurula aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İlgili Bakanlık Disiplin Kurulu",
+      "B) Kurumların Yüksek Disiplin Kurulu",
+      "C) Devlet Personel Başkanlığı",
+      "D) Cumhurbaşkanlığı Disiplin Kurulu",
+      "E) Valilik Disiplin Kurulu"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Memuriyetten çıkarma cezası amirlerin teklifi üzerine kurumların Yüksek Disiplin Kurulu tarafından verilir."
+  },
+  {
+    "id": 3019,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "İdarenin düzenleyici işlemlerinden olan yönetmeliklerin yargısal denetimi hangi dereceli mahkemelerde yapılır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Yalnızca Danıştay'da",
+      "B) Ülke çapında uygulananlar Danıştay'da, yerel düzeyde uygulananlar İdare Mahkemelerinde",
+      "C) Yalnızca İdare Mahkemelerinde",
+      "D) Anayasa Mahkemesinde",
+      "E) Yargıtay'da"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yurt çapında uygulanan yönetmelikler Danıştay'da ilk derece olarak, mahalli/yerel düzeyde uygulanan yönetmelikler ise ilgili İdare Mahkemelerinde denetlenir."
+  },
+  {
+    "id": 3020,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İdari yargıda yürütmenin durdurulması kararı verilebilmesi için kanunen aranan temel şartlar nelerdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sadece hukuka aykırılığın açık olması",
+      "B) Açıktan hukuka aykırılık ile birlikte uygulanması halinde telafisi güç veya imkansız zararların doğması",
+      "C) Davacının maddi zarar görmüş olması",
+      "D) İdarenin savunma süresinin dolmuş olması",
+      "E) İşlemin iptal edilmiş olması"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İYUK m.27 gereği yürütmenin durdurulması için 'açıkça hukuka aykırılık' ve 'telafisi güç veya imkansız zararlar doğması' şartlarının birlikte gerçekleşmesi gerekir."
+  },
+  {
+    "id": 3021,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "1982 Anayasası'na göre kanun teklif etmeye ve kanun tasarı/tekliflerini değiştirmeye yetkili olanlar kimlerdir?",
+    "onculListe": [
+      "I. Milletvekilleri",
+      "II. Cumhurbaşkanı",
+      "III. Bakanlar Kurulu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 0,
+    "cozum": "2017 anayasa değişikliğiyle kanun teklif etme yetkisi sadece milletvekillerine (I) verilmiştir. Cumhurbaşkanı ve Bakanlar Kurulu teklif edemez."
+  },
+  {
+    "id": 3022,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre siyasi partilerin kapatılması davasını Anayasa Mahkemesinde kim açar?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı",
+      "B) Yargıtay Cumhuriyet Başsavcısı",
+      "C) İçişleri Bakanı",
+      "D) TBMM Başkanı",
+      "E) Danıştay Başsavcısı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Siyasi partilerin kapatılması davası Yargıtay Cumhuriyet Başsavcılığı tarafından doğrudan Anayasa Mahkemesinde açılır."
+  },
+  {
+    "id": 3023,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "Milletvekili dokunulmazlığının kaldırılması kararına karşı Anayasa Mahkemesine iptal başvurusu hangi süre içinde ve kimler tarafından yapılabilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İlgili milletvekili veya herhangi bir milletvekili 7 gün içinde",
+      "B) Sadece TBMM Başkanı",
+      "C) Cumhurbaşkanı",
+      "D) Yargıtay Başsavcısı",
+      "E) Yargı denetimi kapalıdır."
+    ],
+    "dogruCevap": 0,
+    "cozum": "Anayasa m.85 gereği dokunulmazlığın kaldırılması veya üyeliliğin düşmesi kararına karşı, ilgili milletvekili veya herhangi bir milletvekili 7 gün içinde AYM'ye iptal başvurusu yapabilir."
+  },
+  {
+    "id": 3024,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri 1982 Anayasası'na göre değiştirilemeyecek hükümler arasında yer alır?",
+    "onculListe": [
+      "I. Devletin şeklinin Cumhuriyet olduğu",
+      "II. Başkentinin Ankara olduğu",
+      "III. Milli marşının İstiklal Marşı olduğu"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Madde 3 gereği devletin başkenti Ankara, millî marşı İstiklal Marşı, şekli Cumhuriyet'tir ve bunların hepsi değiştirilemez maddedir (Madde 4 ile güvencektedir)."
+  },
+  {
+    "id": 3025,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre OHAL ilan etme yetkisi ve süresi azami ne kadardır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) TBMM - 1 yıl",
+      "B) Cumhurbaşkanı - 6 ay",
+      "C) Bakanlar Kurulu - 3 ay",
+      "D) Milli Güvenlik Kurulu - 4 ay",
+      "E) İçişleri Bakanlığı - 1 ay"
+    ],
+    "dogruCevap": 1,
+    "cozum": "OHAL ilan etme yetkisi Cumhurbaşkanına aittir ve her defasında 6 ayı geçmemek üzere ilan edilebilir."
+  },
+  {
+    "id": 3026,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Anayasa Mahkemesinin kaç üyesi vardır ve bu üyeleri kimler seçer?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 11 üye - TBMM ve Cumhurbaşkanı",
+      "B) 15 üye - Cumhurbaşkanı ve TBMM",
+      "C) 17 üye - Yargıtay ve Danıştay",
+      "D) 9 üye - HSK",
+      "E) 21 üye - Cumhurbaşkanı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Anayasa Mahkemesi 15 üyeden oluşur; üyelerin bir kısmı Cumhurbaşkanı, bir kısmı ise TBMM tarafından seçilir."
+  },
+  {
+    "id": 3027,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "Cumhurbaşkanlığı kararnameleri (CKK) ile kanunlar arasında çıkabilecek çatışmalarda hangi kural geçerlidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kanun her durumda CKK'yı ilga eder.",
+      "B) CKK kanunlardan üstündür.",
+      "C) TBMM'nin aynı konuda çıkardığı kanun CKK'yı hükümsüz (uygulanamaz) hale getirir.",
+      "D) Hangisi daha yeniyse o uygulanır.",
+      "E) Anayasa Mahkemesi iptal etmedikçe CKK uygulanır."
+    ],
+    "dogruCevap": 2,
+    "cozum": "Anayasa gereğince kanun ile CKK aynı konuda farklı hükümler içerirse, kanun hükümleri uygulanır (TBMM kanunu CKK'yı hükümsüz kılar)."
+  },
+  {
+    "id": 3028,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri milletvekilliğinin düşmesini gerektiren hallerdendir?",
+    "onculListe": [
+      "I. İstifa etme",
+      "II. Kesin hüküm giyme veya kısıtlanma",
+      "III. Meclis çalışmalarına özürsüz veya izinsiz olarak bir ay içinde toplam beş birleşim günü katılmama"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "İstifa, kesin mahkumiyet ve bir ay içinde 5 birleşim günü özürsüz katılmama milletvekilliğinin düşme sebepleridir. Hepsi doğrudur."
+  },
+  {
+    "id": 3029,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Hakimler ve Savcılar Kurulu (HSK) kaç üyeden ve kaç daireden oluşur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 13 üye - 2 daire",
+      "B) 15 üye - 3 daire",
+      "C) 22 üye - 4 daire",
+      "D) 13 üye - 3 daire",
+      "E) 21 üye - 2 daire"
+    ],
+    "dogruCevap": 3,
+    "cozum": "HSK 13 üyeden ve 2 daireden oluşur (Not: Doğal başkan dahil 13 üyedir, 2 daire halinde çalışır)."
+  },
+  {
+    "id": 3030,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Sayıştay üyelerini ve başkanını kim seçer?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı",
+      "B) TBMM",
+      "C) Danıştay",
+      "D) Anayasa Mahkemesi",
+      "E) HSK"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Sayıştay başkanı ve üyeleri TBMM tarafından seçilir."
+  },
+  {
+    "id": 3031,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "5442 sayılı İl İdaresi Kanunu'na göre 'il' kurmak veya kaldırmak hangi işlemle mümkündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı kararı",
+      "B) Kanunla",
+      "C) İçişleri Bakanlığı onayı",
+      "D) Danıştay kararı",
+      "E) Bakanlar Kurulu kararnamesi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl, ilçe ve mülki idare bölümlerinin kurulması, kaldırılması veya merkezlerinin değiştirilmesi ancak KANUNLA yapılır."
+  },
+  {
+    "id": 3032,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri valinin görev ve yetkileri arasında yer alır?",
+    "onculListe": [
+      "I. İldeki merkezi idare teşkilatının amiri olmak",
+      "II. Yetki genişliği yetkisini kullanmak",
+      "III. Belediye bütçesini doğrudan onaylamak"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Vali ildeki merkezi teşkilatın amiridir ve yetki genişliğine sahiptir (I ve II doğru). Belediye bütçelerini vali değil, belediye meclisi onaylar (III yanlış)."
+  },
+  {
+    "id": 3033,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Büyükşehir belediyesi kurulabilmesi için gereken asgari toplam il nüfusu nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 250.000",
+      "B) 500.000",
+      "C) 750.000",
+      "D) 1.000.000",
+      "E) 2.000.000"
+    ],
+    "dogruCevap": 2,
+    "cozum": "5216 sayılı Kanun'a göre toplam nüfusu 750.000'den fazla olan iller büyükşehir belediyesi statüsü kazanabilir."
+  },
+  {
+    "id": 3034,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "İlçe idare şube başkanları (ilçe müdürleri) hakkında disiplin amiri konumunda olan kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Vali",
+      "B) Kaymakam",
+      "C) Bakan",
+      "D) İlçe Emniyet Müdürü",
+      "E) Cumhuriyet Başsavcısı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İlçede görevli ilçe idare şube başkanlarının disiplin amiri Kaymakamdır."
+  },
+  {
+    "id": 3035,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Köy tüzel kişiliğinin karar organı olan 'Köy Derneği' kimlerden oluşur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sadece muhtar ve ihtiyar heyeti",
+      "B) Köyde oturan seçme hakkına sahip tüm kadın ve erkekler",
+      "C) Köyün en yaşlı 10 sakini",
+      "D) Köy öğretmenleri ve imamı",
+      "E) Köydeki toprak sahipleri"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Köy derneği, köyde ikamet eden ve seçmen hakkına sahip olan bütün köy sakinlerinin oluşturduğu karar organıdır."
+  },
+  {
+    "id": 3036,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "İl özel idaresinin organları hangileridir?",
+    "onculListe": [
+      "I. İl Genel Meclisi",
+      "II. İl Encümeni",
+      "III. Vali"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "İl özel idaresinin organları İl Genel Meclisi (karar), İl Encümeni (danışma/icra) ve Vali'dir (yürütme). Hepsi doğrudur."
+  },
+  {
+    "id": 3037,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Belediye sınırları dışında olup belediye hizmetlerinin götürüldüğü alanlara ne denir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Nazım plan alanı",
+      "B) Mücavir alan",
+      "C) Metropol",
+      "D) Bucak",
+      "E) Özel idare sahası"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Belediye sınırları dışında olup belediye hizmetlerinin götürülebildiği ve denetim yetkisinin olduğu alanlar 'mücavir alan'dır."
+  },
+  {
+    "id": 3038,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "Belediye başkanının geçici olarak görevden uzaklaştırılması yetkisi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanı",
+      "B) İçişleri Bakanı",
+      "C) Vali",
+      "D) Danıştay",
+      "E) Belediye Meclisi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Mahalli idare organları ve başkanları soruşturma sebebiyle tedbiren İçişleri Bakanı tarafından görevden uzaklaştırılabilir."
+  },
+  {
+    "id": 3039,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Merkezi idarenin taşra teşkilatında en küçük basamak hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İl",
+      "B) İlçe",
+      "C) Bucak",
+      "D) Köy",
+      "E) Belde"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Merkezi idarenin taşra teşkilatı kademeleri İl, İlçe ve Bucak'tır (Bucak en küçük basamaktır)."
+  },
+  {
+    "id": 3040,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İl idare kurulu hangi kanunla düzenlenmiştir ve başkanı kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 5393 sayılı Kanun - Belediye Başkanı",
+      "B) 5442 sayılı Kanun - Vali",
+      "C) 5216 sayılı Kanun - Büyükşehir Başkanı",
+      "D) 4483 sayılı Kanun - Kaymakam",
+      "E) 657 sayılı Kanun - Vali yardımcısı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl idare kurulu 5442 sayılı İl İdaresi Kanunu ile düzenlenir ve başkanı Validir."
+  },
+  {
+    "id": 3041,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Mahalli idare seçimleri Anayasa'ya göre kaç yılda bir yapılır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 7"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Mahalli idare organlarının seçimleri 5 yılda bir yapılır."
+  },
+  {
+    "id": 3042,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "Belediye meclisinin feshi kararı hangi merciin başvurusu üzerine hangi yüksek mahkeme tarafından verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İçişleri Bakanlığı - Danıştay",
+      "B) Valilik - Asliye Hukuk",
+      "C) Cumhurbaşkanı - Anayasa Mahkemesi",
+      "D) Meclis Başkanı - Yargıtay",
+      "E) Sayıştay - Danıştay"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Belediye meclisinin feshi, İçişleri Bakanlığının bildirimi üzerine Danıştay kararıyla gerçekleşir."
+  },
+  {
+    "id": 3043,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Köy ihtiyar meclisinin doğal (resmi) üyeleri kimlerdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kaymakam ve muhtar",
+      "B) Köy başöğretmeni ve köy imamı",
+      "C) Bekçi ve ihtiyar heyeti",
+      "D) Köy derneği başkanı",
+      "E) Tarım teknikeri"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Köy ihtiyar meclisinin doğal üyeleri köyün başöğretmeni ve köy imamıdır."
+  },
+  {
+    "id": 3044,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Hangileri belediye organları arasında yer alır?",
+    "onculListe": [
+      "I. Belediye Meclisi",
+      "II. Belediye Encümeni",
+      "III. Belediye Başkanı"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Belediye meclisi (karar), belediye encümeni (icra/danışma) ve belediye başkanı (yürütme) belediyenin zorunlu organlarıdır."
+  },
+  {
+    "id": 3045,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Belediye bütçesi hangi ayda meclis tarafından görüşülerek karara bağlanır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Mart",
+      "B) Ağustos",
+      "C) Aralık",
+      "D) Ocak",
+      "E) Haziran"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye bütçesi aralık ayı toplantı döneminde görüşülerek yılbaşından önce onaylanır."
+  },
+  {
+    "id": 3046,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Mahalli idarelerin birlik kurabilmesi hangi makamın iznine tabidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Maliye Bakanlığı",
+      "B) İçişleri Bakanlığı",
+      "C) Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "D) Danıştay",
+      "E) Cumhurbaşkanlığı"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Mahalli idarelerin kendi aralarında birlik kurması İçişleri Bakanlığının iznine bağlıdır."
+  },
+  {
+    "id": 3047,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "Köy muhtarı hangi kanuna dayanarak ve nasıl seçilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Köy Kanunu - Köy derneği tarafından doğrudan gizli oyla",
+      "B) 5393 sayılı Kanun - Belediye meclisi seçimiyle",
+      "C) Vali atamasıyla",
+      "D) Kaymakam onayıyla",
+      "E) İl genel meclisi oylamasıyla"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Köy muhtarı, 442 sayılı Köy Kanunu gereğince köy derneği (seçmenler) tarafından doğrudan seçilir."
+  },
+  {
+    "id": 3048,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İl genel meclisi üyeleri hangi sıfatla ve kimler tarafından seçilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İlçelerdeki seçmenler tarafından doğrudan",
+      "B) Köy muhtarları tarafından",
+      "C) Valilikçe atanan memurlardan",
+      "D) Belediye meclis üyeleri arasından kura ile",
+      "E) Kaymakamlarca"
+    ],
+    "dogruCevap": 0,
+    "cozum": "İl genel meclisi üyeleri, ilçelerde seçmenler tarafından mahalli idareler seçimlerinde doğrudan seçilir."
+  },
+  {
+    "id": 3049,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Belediye meclisinin olağan toplantı zamanı ne sıklıkla gerçekleşir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Her ayın ilk haftası",
+      "B) Yılda bir kez kasımda",
+      "C) 6 ayda bir",
+      "D) Her hafta salı günleri",
+      "E) İhtiyaç duyulduğunda valilik çağrısıyla"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Belediye meclisi her ayın ilk haftası önceden belirlediği günde olağan toplantısını yapar."
+  },
+  {
+    "id": 3050,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Mahalli idarelerin dış denetimini gerçekleştiren yüksek kurum hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Sayıştay",
+      "B) Yargıtay",
+      "C) Danıştay",
+      "D) Maliye Bakanlığı",
+      "E) İçişleri Bakanlığı Mülkiye Müfettişleri"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Mahalli idarelerin dış denetimi TBMM adına Sayıştay tarafından yapılır."
+  },
+  {
+    "id": 3051,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Fırsat maliyeti kavramı ekonomide neyi ifade eder?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Bir malı üretmek için yapılan nakit harcamaları",
+      "B) Bir tercihte bulunurken vazgeçilen en yüksek değerli alternatifin değerini",
+      "C) Enflasyon oranını",
+      "D) Sabit maliyetlerin toplamını",
+      "E) Tüketicinin toplam gelirini"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Fırsat maliyeti, bir seçim yapılırken vazgeçilen en yüksek değerli diğer alternatifin getirisi veya değeridir."
+  },
+  {
+    "id": 3052,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "yorum",
+    "soru": "Üretim İmkanları Eğrisi'nin (ÜIE) orijine göre içbükey olmasının iktisadi sebebi nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Artan fırsat maliyeti",
+      "B) Sabit verimler",
+      "C) Azalan marjinal maliyet",
+      "D) Tam rekabet koşulları",
+      "E) Tüketici rasyonelliği"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Kaynakların her sektörde aynı etkinlikle kullanılamaması ve bir maldan diğerine geçtikçe maliyetin artması (artan fırsat maliyeti) eğriyi içbükey yapar."
+  },
+  {
+    "id": 3053,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Tüketilen miktar arttıkça her bir ilave birimin sağladığı marjinal faydanın azalması hangi yasa ile ifade edilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Gossen I. Yasası (Azalan Marjinal Fayda)",
+      "B) Engel Yasası",
+      "C) Say Kanunu",
+      "D) King Yasası",
+      "E) Gossen II. Yasası"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Tüketim arttıkça marjinal faydanın sürekli düşmesi Gossen I. Yasası (Azalan Marjinal Fayda) olarak bilinir."
+  },
+  {
+    "id": 3054,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Fiyatı arttığında talebi artan (talep kanununun istisnası olan) düşük kaliteli mallara ne ad verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Giffen malı",
+      "B) Lüks mal",
+      "C) Veblen malı",
+      "D) Tamamlayıcı mal",
+      "E) Kamusal mal"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Fiyatı arttığında talebi artan düşük mallar Giffen malı adını alır (Veblen ise gösteriş tüketimidir)."
+  },
+  {
+    "id": 3055,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "oncul",
+    "soru": "Tam rekabet piyasasının varsayımları arasında hangileri yer alır?",
+    "onculListe": [
+      "I. Piyasada çok sayıda alıcı ve satıcının olması (atomizasyon)",
+      "II. Malların homojen olması",
+      "III. Piyasaya giriş ve çıkışların serbest olması"
+    ],
+    "secenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "dogruCevap": 4,
+    "cozum": "Atomizasyon, homojenlik ve serbest giriş-çıkış tam rekabet piyasasının temel şartlarıdır. Hepsi doğrudur."
+  },
+  {
+    "id": 3056,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Monopolcü bir firmanın marjinal geliri (MR) ile fiyatı (P) arasındaki ilişki nasıldır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) MR her zaman P'ye eşittir.",
+      "B) MR her zaman P'den büyüktür.",
+      "C) MR her zaman P'den küçüktür.",
+      "D) MR sabittir.",
+      "E) İlişki yoktur."
+    ],
+    "dogruCevap": 2,
+    "cozum": "Monopolcü mal satabilmek için fiyatı düşürmek zorundadır; bu nedenle ilave birimden elde ettiği gelir (MR) fiyatın (P) altındadır."
+  },
+  {
+    "id": 3057,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Nominal GSYİH'nin Reel GSYİH'ye oranlanmasıyla elde edilen endekse ne denir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) TÜFE",
+      "B) ÜFE",
+      "C) GSYİH Deflatörü",
+      "D) Yaşam Maliyeti Endeksi",
+      "E) Laspeyres Endeksi"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Nominal GSYİH / Reel GSYİH formülü bize GSYİH Deflatörünü verir."
+  },
+  {
+    "id": 3058,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Marjinal Tüketim Eğilimi (MPC) ile Marjinal Tasarruf Eğiliminin (MPS) toplamı daima neye eşittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 0",
+      "B) 0.5",
+      "C) 1",
+      "D) 10",
+      "E) Sonsuz"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Elde edilen gelir biriminin tamamı ya tüketilir ya da tasarruf edilir; bu nedenle MPC + MPS = 1'dir."
+  },
+  {
+    "id": 3059,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Kamu harcamaları ile vergilerin aynı anda eşit miktarda artırılmasıyla milli gelirin o miktar kadar artacağını savunan teorem hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Haavelmo Teoremi (Dengeli Bütçe Teoremi)",
+      "B) Ricardo Denklik",
+      "C) Modigliani Hipotezi",
+      "D) Say Kanunu",
+      "E) Friedman Sürekli Gelir Hipotezi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Haavelmo Teoremi, dengeli bütçe çarpanının 1 olduğunu ve harcama/vergi artışının milli geliri bire bir artıracağını savunur."
+  },
+  {
+    "id": 3060,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Kısa dönem Phillips eğrisi enflasyon ile hangi makro değişken arasında ters yönlü ilişki kurar?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İşsizlik oranı",
+      "B) Faiz oranı",
+      "C) Döviz kuru",
+      "D) Bütçe açığı",
+      "E) Cari denge"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Kısa dönem Phillips eğrisi enflasyon ile işsizlik oranı arasında ters yönlü bir ilişki olduğunu gösterir."
+  },
+  {
+    "id": 3061,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Türkiye'de planlı kalkınma dönemini başlatmak üzere kurulan Devlet Planlama Teşkilatı (DPT) hangi yıl kurulmuştur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1950",
+      "B) 1960",
+      "C) 1965",
+      "D) 1970",
+      "E) 1980"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Devlet Planlama Teşkilatı (DPT) 1960 yılında kurulmuş ve ilk 5 yıllık kalkınma planı 1963'te uygulanmaya başlanmıştır."
+  },
+  {
+    "id": 3062,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Türkiye'de dışa açık ekonomik modele geçişin miladı kabul edilen ekonomik istikrar kararları paketinin adı nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 24 Ocak 1980 Kararları",
+      "B) 5 Nisan 1994 Kararları",
+      "C) İzmir İktisat Kongresi Kararları",
+      "D) 1958 Moratoryumu",
+      "E) Güçlü Ekonomiye Geçiş Programı"
+    ],
+    "dogruCevap": 0,
+    "cozum": "24 Ocak 1980 kararları, Türkiye'nin kapalı ekonomiden ihracata dayalı dışa açık serbest piyasa ekonomisine geçişinin miladıdır."
+  },
+  {
+    "id": 3063,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Köylünün sırtındaki en büyük vergi yükü olan ve 1925 yılında kaldırılan tarım vergisi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Aşar Vergisi",
+      "B) Varlık Vergisi",
+      "C) Ağnam Vergisi",
+      "D) Emlak Vergisi",
+      "E) Yol Vergisi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Osmanlı'dan kalan ve tarım ürünlerinden %10 oranında alınan Aşar vergisi 1925 yılında köylüyü rahatlatmak için kaldırılmıştır."
+  },
+  {
+    "id": 3064,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Türkiye ile Avrupa Birliği arasında Gümrük Birliği anlaşması hangi tarihte yürürlüğe girmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 Ocak 1990",
+      "B) 1 Ocak 1996",
+      "C) 17 Aralık 2004",
+      "D) 1 Ocak 2000",
+      "E) 15 Temmuz 1995"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Türkiye-AB Gümrük Birliği ortaklık konseyi kararıyla 1 Ocak 1996 tarihinde yürürlüğe girmiştir."
+  },
+  {
+    "id": 3065,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Gelir dağılımındaki adaletsizliği ölçmek için kullanılan ve 0 ile 1 arasında değer alan katsayı hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Gini Katsayısı",
+      "B) Laspeyres Endeksi",
+      "C) Lerner Endeksi",
+      "D) Engel Katsayısı",
+      "E) Fisher İndeksi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Gini katsayısı gelir dağılımı eşitsizliğini ölçer; 0 mutlak eşitliği, 1 ise mutlak eşitsizliği ifade eder."
+  },
+  {
+    "id": 3066,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İnsan haklarını 'negatif, pozitif ve aktif statü hakları' olarak üçe ayıran Alman hukukçu kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Karel Vasak",
+      "B) George Jelinek",
+      "C) John Locke",
+      "D) Thomas Hobbes",
+      "E) Hans Kelsen"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Statü hakları (korunucu, isteyici, katılma hakları) sınıflandırmasını Alman kamu hukukçusu George Jelinek yapmıştır."
+  },
+  {
+    "id": 3067,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İnsan haklarını 1. kuşak, 2. kuşak ve 3. kuşak olarak sınıflandıran Fransız hukukçu kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Karel Vasak",
+      "B) George Jelinek",
+      "C) Montesquieu",
+      "D) Jean-Jacques Rousseau",
+      "E) Max Weber"
+    ],
+    "dogruCevap": 0,
+    "cozum": "İnsan haklarını kuşaklara ayıran ve uluslararası literatüre kazandıran kişi Karel Vasak'tır."
+  },
+  {
+    "id": 3068,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Kralın yetkilerini soylular lehine sınırlayan ilk tarihsel belge kabul edilen 1215 tarihli İngiliz belgesi hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Magna Carta",
+      "B) Habeas Corpus Kanunu",
+      "C) Bill of Rights",
+      "D) Virginia Haklar Bildirisi",
+      "E) 1789 İnsan ve Yurttaş Hakları Bildirisi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "1215 tarihli Magna Carta (Büyük Ferman), İngiltere'de kralın yetkilerini kısıtlayan ilk anayasal belgedir."
+  },
+  {
+    "id": 3069,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Türkiye Cumhuriyeti Anayasa Mahkemesine bireysel başvuru hakkı hangi anayasa değişikliği ile hukuk sistemimize girmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 2001 Değişikliği",
+      "B) 2010 Değişikliği",
+      "C) 2017 Değişikliği",
+      "D) 1995 Değişikliği",
+      "E) 1982 Anayasası'nın orijinal hali"
+    ],
+    "dogruCevap": 1,
+    "cozum": "AYM'ye bireysel başvuru hakkı 2010 yılında yapılan kapsamlı anayasa değişikliği ile getirilmiştir."
+  },
+  {
+    "id": 3070,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Kamu Denetçiliği Kurumu (Ombudsmanlık) hangi yüksek organa bağlı olarak kurulmuştur?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanlığı",
+      "B) TBMM Başkanlığı",
+      "C) Adalet Bakanlığı",
+      "D) Danıştay",
+      "E) Başbakanlık"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Kamu Denetçiliği Kurumu, Türkiye Büyük Millet Meclisine bağlı olarak denetim görevi yapar."
+  },
+  {
+    "id": 3071,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memura verilecek 'Kınama' cezası için zamanaşımı süresi (fiilin işlendiği tarihten itibaren) en çok ne kadardır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 ay",
+      "B) 6 ay",
+      "C) 1 yıl",
+      "D) 2 yıl",
+      "E) 5 yıl"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Disiplin cezalarında soruşturma açma zamanaşımı kınama, uyarma ve aylıktan kesme cezaları için fiilin işlendiği tarihten itibaren 6 aydır."
+  },
+  {
+    "id": 3072,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu'na göre mal bildirimleri olağan dönemlerde hangi yıllarda yenilenir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Her yıl ocak ayında",
+      "B) Sonu 0 ve 5 ile biten yılların en geç şubat ayı sonuna kadar",
+      "C) Seçim yıllarında",
+      "D) 3 yılda bir",
+      "E) Sonu 1 ve 6 ile biten yıllar"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Genel mal bildirimleri sonu 0 ve 5 ile biten yılların en geç şubat ayı sonuna kadar yenilenir."
+  },
+  {
+    "id": 3073,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre Yüksek Seçim Kurulu (YSK) kararlarına karşı yargı yoluyla nereye başvurulabilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Anayasa Mahkemesine",
+      "B) Danıştay'a",
+      "C) Yargıtay'a",
+      "D) Kararlar kesindir, hiçbir mercie ve yargı organına başvurulamaz",
+      "E) Uyuşmazlık Mahkemesine"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Anayasa m.79 gereğince YSK kararları kesindir, hiçbir merciye veya yargı organına itiraz edilemez."
+  },
+  {
+    "id": 3074,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Siyasi parti kurabilmek için gereken asgari Türk vatandaşı kurucu üye sayısı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 7",
+      "B) 20",
+      "C) 30",
+      "D) 50",
+      "E) 100"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Siyasi partiler en az 30 Türk vatandaşı tarafından kurulabilir."
+  },
+  {
+    "id": 3075,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memura babalık izni kaç gün olarak verilir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3 gün",
+      "B) 5 gün",
+      "C) 7 gün",
+      "D) 10 gün",
+      "E) 15 gün"
+    ],
+    "dogruCevap": 3,
+    "cozum": "Eşi doğum yapan memura isteği üzerine 10 gün babalık izni verilir."
+  },
+  {
+    "id": 3076,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre memurun evlenmesi halinde verilen mazeret izni süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 3 gün",
+      "B) 5 gün",
+      "C) 7 gün",
+      "D) 10 gün",
+      "E) 15 gün"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Memurun kendisinin veya çocuğunun evlenmesi durumunda 3 gün mazeret izni verilir."
+  },
+  {
+    "id": 3077,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Türkiye'de paradan 6 sıfır atılarak Yeni Türk Lirası'na (YTL) geçiş hangi tarihte gerçekleşmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 Ocak 2002",
+      "B) 1 Ocak 2005",
+      "C) 1 Ocak 2008",
+      "D) 1 Ocak 2010",
+      "E) 1 Ocak 2001"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Paradan 6 sıfır atılması ve YTL'ye geçiş 1 Ocak 2005 tarihinde yürürlüğe girmiştir."
+  },
+  {
+    "id": 3078,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Bilgi Edinme Hakkı Kanunu'na göre kurumlara yapılan başvurulara normal şartlarda en geç kaç iş günü içinde cevap verilmelidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 7 iş günü",
+      "B) 10 iş günü",
+      "C) 15 iş günü",
+      "D) 30 iş günü",
+      "E) 60 iş günü"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Bilgi edinme başvurularına kurumlarca en geç 15 iş günü içinde yanıt verilmesi zorunludur."
+  },
+  {
+    "id": 3079,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre Türkiye Büyük Millet Meclisi üye tam sayısı kaç kişidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 500",
+      "B) 550",
+      "C) 600",
+      "D) 650",
+      "E) 501"
+    ],
+    "dogruCevap": 2,
+    "cozum": "2017 anayasa değişikliği ile TBMM üye tam sayısı 600 milletvekili olarak belirlenmiştir."
+  },
+  {
+    "id": 3080,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre hizmet süresi 1 yıldan 10 yıla kadar olan memurların yıllık izin süresi kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10 gün",
+      "B) 15 gün",
+      "C) 20 gün",
+      "D) 30 gün",
+      "E) 40 gün"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Hizmeti 1 yıldan 10 yıla kadar (10 yıl dahil) olan memurların yıllık izni 20 gündür (10 yıldan fazla olanlar için 30 gündür)."
+  },
+  {
+    "id": 3081,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İdari işlemlerin geri alınması ile kaldırılması arasındaki temel fark aşağıdakilerden hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Geri alma hukuka aykırı işlemleri geriye yürür şekilde, kaldırma ise hukuka uygun işlemleri geleceğe etkili ortadan kaldırır.",
+      "B) Kaldırma sadece mahkeme kararıyla yapılır.",
+      "C) Geri alma sadece mahkeme kararıyla mümkündür.",
+      "D) Kaldırma işlemi geriye yürür.",
+      "E) İkisi arasında hukuki hiçbir fark yoktur."
+    ],
+    "dogruCevap": 0,
+    "cozum": "Geri alma hukuka aykırı işlemleri geçmişe etkili (ex tunc), kaldırma ise hukuka uygun işlemleri geleceğe etkili (ex nunc) ortadan kaldırır."
+  },
+  {
+    "id": 3082,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Danıştay'ın idari (istişari) görevleri arasında aşağıdakilerden hangisi yer almaz?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kanun tasarıları hakkında görüş bildirmek",
+      "B) Cumhurbaşkanlığı kararnameleri hakkında düşünce bildirmek",
+      "C) İdari sözleşme taslaklarını incelemek",
+      "D) İlk derece mahkemesi sıfatıyla iptal davası görmek",
+      "E) Cumhurbaşkanının istemi üzerine diğer işleri incelemek"
+    ],
+    "dogruCevap": 3,
+    "cozum": "İlk derece mahkemesi sıfatıyla dava görmek Danıştay'ın yargısal görevidir, istişari (idari) görevi değildir."
+  },
+  {
+    "id": 3083,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre Türkiye'de yargı yetkisi kime ve hangi organlara verilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Cumhurbaşkanına bağlı adli makamlara",
+      "B) Türk milleti adına bağımsız ve tarafsız mahkemelere",
+      "C) TBMM bünyesindeki adalet komisyonuna",
+      "D) İçişleri Bakanlığına bağlı kurullara",
+      "E) HSK'ya bağlı denetçilere"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Anayasa m.9 gereğince yargı yetkisi, Türk milleti adına bağımsız ve tarafsız mahkemelerce kullanılır."
+  },
+  {
+    "id": 3084,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Anayasa Mahkemesinin iptal davası açabilmesi için gereken üye tamsayısı oranı (milletvekili sayısı bakımından) kaçta kaç kuralına dayanır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Üye tam sayısının 1/10'u",
+      "B) Üye tam sayısının 1/5'i",
+      "C) Üye tam sayısının salt çoğunluğu",
+      "D) Üye tam sayısının 3/5'i",
+      "E) Üye tam sayısının 2/3'ü"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Anayasa m.150 gereği şekil ve esas yönünden iptal davası açabilen milletvekili grubu, TBMM üye tam sayısının beşte biridir (1/5)."
+  },
+  {
+    "id": 3085,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "5442 sayılı Kanun'a göre bir ilçede mülki idare amiri ve devletin temsilcisi kimdir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Belediye Başkanı",
+      "B) Kaymakam",
+      "C) İlçe Emniyet Müdürü",
+      "D) Cumhuriyet Başsavcısı",
+      "E) Özel İdare Müdürü"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İlçede hükümetin ve devletin temsilcisi, mülki idare amiri Kaymakamdır."
+  },
+  {
+    "id": 3086,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "5393 sayılı Belediye Kanunu'na göre yeni bir belediye kurulabilmesi için meskun sahadaki nüfusun en az kaç olması gerekir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 2.000",
+      "B) 5.000",
+      "C) 10.000",
+      "D) 20.000",
+      "E) 50.000"
+    ],
+    "dogruCevap": 1,
+    "cozum": "5393 sayılı Kanun'a göre meskun sahasının nüfusu 5.000 ve üzerinde olan yerlerde belediye kurulabilir."
+  },
+  {
+    "id": 3087,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İl özel idaresinde yürütme görevi kime aittir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İl Genel Meclisi Başkanı",
+      "B) Vali",
+      "C) İl Özel İdare Genel Sekreteri",
+      "D) Defterdar",
+      "E) Encümen seçilmiş üyesi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "İl özel idaresinde yürütme yetkisi ve görevi Valiye aittir."
+  },
+  {
+    "id": 3088,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İki mal arasındaki çapraz talep esnekliği negatif (-) çıkarsa bu mallar arasındaki iktisadi ilişki nedir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İkame (rakip) mallar",
+      "B) Tamamlayıcı mallar",
+      "C) Bağımsız mallar",
+      "D) Giffen malları",
+      "E) Normal mallar"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Çapraz esnekliğin negatif olması malların tamamlayıcı olduğunu gösterir (biri artarsa diğerinin talebi düşer)."
+  },
+  {
+    "id": 3089,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Monopol gücünün ölçülmesinde kullanılan ve (P - MC) / P formülüyle hesaplanan endeks hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Lerner Endeksi",
+      "B) Gini Endeksi",
+      "C) HHI (Herfindahl-Hirschman) Endeksi",
+      "D) Engel Katsayısı",
+      "E) Laspeyres Endeksi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Lerner Endeksi monopollük gücünü ölçer ve (P - MC) / P formülü ile hesaplanır."
+  },
+  {
+    "id": 3090,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Klasik iktisatçılara ait olan ve 'Her arz kendi talebini yaratır' prensibine dayanan yasa hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Say Kanunu",
+      "B) Gossen Yasası",
+      "C) Engel Kanunu",
+      "D) King Kanunu",
+      "E) Walras Yasası"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Jean-Baptiste Say'a ait olan Say Kanunu 'her arz kendi talebini yaratır' ilkesine dayanır."
+  },
+  {
+    "id": 3091,
+    "ders": "Makro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Devalüasyon sonrasında dış ticaret dengesinin ilk etapta açık vermesi, ardından düzelmesini ifade eden eğriye ne denir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) J-Eğrisi",
+      "B) Laffer Eğrisi",
+      "C) Phillips Eğrisi",
+      "D) Lorenz Eğrisi",
+      "E) Beveridge Eğrisi"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Devalüasyonun gecikmeli olumlu etkisini ve başlangıçtaki bozulmayı gösteren grafik J-Eğrisi'dir."
+  },
+  {
+    "id": 3092,
+    "ders": "Türkiye Ekonomisi",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Atatürk döneminde toplanan ve milli iktisat esaslarını belirleyen kongre hangisidir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) İzmir İktisat Kongresi (1923)",
+      "B) Sivas Kongresi",
+      "C) Erzurum Kongresi",
+      "D) Ankara İktisat Şurası",
+      "E) İstanbul Ticaret Kurultayı"
+    ],
+    "dogruCevap": 0,
+    "cozum": "17 Şubat 1923'te toplanan İzmir İktisat Kongresi genç Cumhuriyet'in iktisadi rotasını çizmiştir."
+  },
+  {
+    "id": 3093,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İnsan Hakları Evrensel Bildirgesi hangi tarihte Birleşmiş Milletler Genel Kurulu tarafından kabul edilmiştir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 10 Aralık 1948",
+      "B) 4 Kasım 1950",
+      "C) 24 Ekim 1945",
+      "D) 14 Temmuz 1789",
+      "E) 1 Ocak 1952"
+    ],
+    "dogruCevap": 0,
+    "cozum": "İHEB 10 Aralık 1948 tarihinde kabul edilmiş olup bu tarih Dünya İnsan Hakları Günü olarak kutlanır."
+  },
+  {
+    "id": 3094,
+    "ders": "İnsan Hakları ve Demokratikleşme",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Avrupa İnsan Hakları Sözleşmesi'ne (AİHS) bireysel başvuru için iç hukuk yolları tükatildikten sonra öngörülen yeni hak düşürücü başvuru süresi kaç aydır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 1 ay",
+      "B) 3 ay",
+      "C) 4 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Protokol değişiklikleriyle AİHM'e başvuru süresi eski 6 aydan 4 aya düşürülmüştür."
+  },
+  {
+    "id": 3095,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "İdare mahkemelerinde açılan iptal davalarında genel dava açma süresi kural olarak kaç gündür?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 60 gün",
+      "D) 90 gün",
+      "E) 1 yıl"
+    ],
+    "dogruCevap": 2,
+    "cozum": "İYUK m.7 gereği idare mahkemelerinde genel dava açma süresi 60 gündür."
+  },
+  {
+    "id": 3096,
+    "ders": "Anayasa Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "1982 Anayasası'na göre milletvekili seçilebilme yaşı kaçtır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 18",
+      "B) 21",
+      "C) 25",
+      "D) 30",
+      "E) 40"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Anayasa değişikliği ile milletvekili seçilme yaşı 18'e indirilmiştir."
+  },
+  {
+    "id": 3097,
+    "ders": "Türkiye'nin İdari Yapısı",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "5442 sayılı Kanun'a göre 'Yetki Genişliği' anayasal olarak hangi mülki idare amirine tanınmıştır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Kaymakam",
+      "B) Vali",
+      "C) İlçe Özel İdare Müdürü",
+      "D) Bucak Müdürü",
+      "E) Bölge Valisi"
+    ],
+    "dogruCevap": 1,
+    "cozum": "Yetki genişliği, merkezi idarenin taşrada yerinde ve çabuk karar alabilmesi için sadece Valilere tanınmış anayasal bir istisnadır."
+  },
+  {
+    "id": 3098,
+    "ders": "Mahalli İdareler",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Belediye bütçesinin kesin hesabı izleyen mali yılın hangi ayında belediye meclisi tarafından karara bağlanır?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Ocak",
+      "B) Mart",
+      "C) Nisan",
+      "D) Ağustos",
+      "E) Aralık"
+    ],
+    "dogruCevap": 2,
+    "cozum": "Belediye kesin hesabı, izleyen mali yılın Nisan ayı toplantı döneminde meclis tarafından görüşülerek karara bağlanır."
+  },
+  {
+    "id": 3099,
+    "ders": "Mikro İktisat",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "Tüketicinin bütçe doğrusunun eğimi aşağıdakilerden hangisini gösterir?",
+    "onculListe": [],
+    "secenekler": [
+      "A) Malların fiyatları oranını (fiyatlar oranının negatifini)",
+      "B) Marjinal ikame oranını",
+      "C) Toplam faydayı",
+      "D) Fırsat maliyetini",
+      "E) Tüketici rasyonelliğini"
+    ],
+    "dogruCevap": 0,
+    "cozum": "Bütçe doğrusunun eğimi iki malın fiyatları oranını (Px / Py) gösterir."
+  },
+  {
+    "id": 3100,
+    "ders": "İdare Hukuku",
+    "testAdi": "Deneme 3",
+    "deneme": "Deneme 3",
+    "tip": "bilgi",
+    "soru": "657 sayılı Kanun'a göre devlet memurluğundan çıkarma cezası alan bir kişi tekrar memurluğa atanabilir mi?",
+    "onculListe": [],
+    "secenekler": [
+      "A) 5 yıl sonra atanabilir.",
+      "B) Hiçbir zaman bir daha memurluğa alınamaz.",
+      "C) Cumhurbaşkanı affıyla atanabilir.",
+      "D) 10 yıl sonra atanabilir.",
+      "E) Mahkeme kararıyla dönebilir."
+    ],
+    "dogruCevap": 1,
+    "cozum": "Memurluktan çıkarma cezası alanlar bir daha devlet kamu hizmetine kesinlikle alınmazlar (ömür boyu men cezasıdır)."
+  }
 ]
